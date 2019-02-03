@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "38521654950",
+    "firebase_url": "https://spotif-ai-3c5c6.firebaseio.com",
+    "project_id": "spotif-ai-3c5c6",
+    "storage_bucket": "spotif-ai-3c5c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38521654950:android:b444a3809a1dfeb0",
+        "android_client_info": {
+          "package_name": "com.example.spotif_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38521654950-0ngqu26b0sc4tnhug99meoud00sr0jpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotif_ai",
+            "certificate_hash": "bc918328a3a48b4fd025c1f73188de08dd827d85"
+          }
+        },
+        {
+          "client_id": "38521654950-6mf79v87piq8bjiags779b4l47pfb81c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jA6W_jhjIekOo9Ou81FIz-oWRzLgxVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38521654950-6mf79v87piq8bjiags779b4l47pfb81c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

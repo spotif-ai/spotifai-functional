@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:node="merge"
-    package="com.example.spotif_ai">
+    package="com.example.spotif_ai"
+    tools:node="merge">
 
     <uses-feature
         android:name="android.hardware.camera"
@@ -21,14 +21,12 @@
 
         <activity
             android:name=".testPhotoActivity"
-            android:label="@string/title_activity_setting"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-
+            android:label="@string/title_activity_test_photo"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".SettingActivity"
             android:label="@string/title_activity_setting"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,6 +34,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ContentActivity"></activity>
     </application>
 
 </manifest>

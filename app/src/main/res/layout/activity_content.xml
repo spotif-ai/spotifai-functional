@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/black"
-    tools:context=".testPhotoActivity">
+    tools:context="com.example.spotif_ai.ContentActivity">
 
 
     <Button
@@ -48,25 +47,25 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.016" />
 
-    <!--<TextView-->
-        <!--android:id="@+id/heartratetext"-->
-        <!--android:layout_width="357dp"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_marginStart="8dp"-->
-        <!--android:layout_marginTop="8dp"-->
-        <!--android:layout_marginEnd="8dp"-->
-        <!--android:layout_marginBottom="8dp"-->
-        <!--android:fontFamily="monospace"-->
-        <!--android:gravity="center_horizontal"-->
-        <!--android:paddingLeft="0dp"-->
-        <!--android:text="and heart rate:"-->
-        <!--android:textColor="@android:color/white"-->
-        <!--android:textSize="30sp"-->
-        <!--app:layout_constraintBottom_toBottomOf="parent"-->
-        <!--app:layout_constraintEnd_toEndOf="parent"-->
-        <!--app:layout_constraintStart_toStartOf="parent"-->
-        <!--app:layout_constraintTop_toTopOf="parent"-->
-        <!--app:layout_constraintVertical_bias="0.326" />-->
+    <TextView
+        android:id="@+id/heartratetext"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="monospace"
+        android:gravity="center_horizontal"
+        android:paddingLeft="0dp"
+        android:text="and heart rate:"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.326" />
 
     <TextView
         android:id="@+id/songrecommendationtext"
@@ -92,57 +91,37 @@
         android:id="@+id/smileprobabilityvalue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         android:fontFamily="monospace"
         android:gravity="center_horizontal"
         android:text="smile probability"
         android:textColor="#39ff92"
         android:textSize="30sp"
-        app:layout_constraintBottom_toTopOf="@+id/songrecommendationtext"
+        app:layout_constraintBottom_toTopOf="@+id/heartratetext"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/facialexpressiontext"
-        app:layout_constraintVertical_bias="0.18" />
+        app:layout_constraintTop_toBottomOf="@+id/facialexpressiontext" />
 
     <TextView
-        android:id="@+id/artistView"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
+        android:id="@+id/heartratevalue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:fontFamily="sans-serif-condensed"
-        android:text="by artist"
-        android:textAlignment="center"
-        android:textColor="#39ff92"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="monospace"
+        android:gravity="center_horizontal"
+        android:text="heartrate"
+        android:textColor="@android:color/white"
         android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/songrecommendationtext"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/songlink"
-        app:layout_constraintVertical_bias="0.16000003" />
+        app:layout_constraintTop_toBottomOf="@+id/heartratetext" />
 
-    <!--<TextView-->
-        <!--android:id="@+id/heartratevalue"-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_marginStart="8dp"-->
-        <!--android:layout_marginTop="8dp"-->
-        <!--android:layout_marginEnd="8dp"-->
-        <!--android:layout_marginBottom="8dp"-->
-        <!--android:fontFamily="monospace"-->
-        <!--android:gravity="center_horizontal"-->
-        <!--android:text="heartrate"-->
-        <!--android:textColor="@android:color/white"-->
-        <!--android:textSize="30sp"-->
-        <!--app:layout_constraintBottom_toTopOf="@+id/songrecommendationtext"-->
-        <!--app:layout_constraintEnd_toEndOf="parent"-->
-        <!--app:layout_constraintStart_toStartOf="parent"-->
-        <!--app:layout_constraintTop_toBottomOf="@+id/heartratetext" />-->
 
 </android.support.constraint.ConstraintLayout>

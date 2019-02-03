@@ -13,8 +13,7 @@ import com.google.firebase.FirebaseApp;
 
 public class MainActivity extends AppCompatActivity {
 
-    boolean isOpen = false;
-    Button startbutton;
+    Button settingsButton;
     TextView splashtitle;
 
 
@@ -24,16 +23,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         FirebaseApp.initializeApp(this);
 
-
-        startbutton =  findViewById(R.id.getstartedbutton);
+        settingsButton =  findViewById(R.id.settings_button);
         splashtitle = findViewById(R.id.splashTitle);
 
         AlphaAnimation fadeIn = new AlphaAnimation(1.0f , 0.0f ) ;
         AlphaAnimation fadeOut = new AlphaAnimation( 0.0f , 1.0f ) ;
         splashtitle.startAnimation(fadeIn);
         splashtitle.startAnimation(fadeOut);
-        startbutton.startAnimation(fadeIn);
-        startbutton.startAnimation(fadeOut);
+        settingsButton.startAnimation(fadeIn);
+        settingsButton.startAnimation(fadeOut);
 //        fadeIn.setDuration(1000);
 //        fadeIn.setFillAfter(true);
         fadeOut.setDuration(2500);
@@ -46,18 +44,17 @@ public class MainActivity extends AppCompatActivity {
         );
 
 
-        startbutton.setOnClickListener(new View.OnClickListener() {
+
+
+        settingsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,SettingActivity.class);
                 startActivity(intent);
-                overridePendingTransition(R.anim.slide_up, R.anim.fade_out);
                 finish();
 
             }
         });
 
     }
-
-
 }

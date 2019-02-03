@@ -1,0 +1,2010 @@
+song_title,artist,INDEX-VAL,index
+"Trio Sonata in G Major, Wq. 144: I. Adagio",Carl Philipp Emanuel Bach,0.0073568,0
+"Nocturne No.1 In B Flat Minor, Op.9 No.1",Frédéric Chopin,0.0077868,1
+"Piano Quartet in E flat, Op.47: 3. Andante cantabile",Robert Schumann,0.0091728,2
+"Mozart: Requiem in D Minor, K. 626: VIII. Lacrimosa",Nikolaus Harnoncourt,0.0094424,3
+Skrillex Orchestral Suite By Varien - Bonus Track,Skrillex,0.0109472,4
+Bumpy Road,Destruction Unit,0.0116754,5
+Outro,M83,0.0126036,6
+"Trio No. 2 en Mi Mineur, Op. 92: III. Andante con moto",Camille Saint-Saëns,0.0131924,7
+Plagues,The End At The Beginning,0.0142786,8
+"String Quintet in C Major, Op. 29: II. Adagio molto espressivo",Ludwig van Beethoven,0.0153278,9
+Fool,Perfume Genius,0.0159552,10
+Don't Die,Killer Mike,0.0161568,11
+"My Heart Will Go On (Love Theme from ""Titanic"")",Céline Dion,0.0166272,12
+Outro,M83,0.017967,13
+Spiteful Nature,I Shall Devour,0.0181944,14
+Night on Bald Mountain,Modest Mussorgsky,0.0183366,15
+Senseless Order,Signs of the Swarm,0.0187,16
+Be My Valentine (feat. Dickie Allen),Brojob,0.019278,17
+So Lovely,Ben Wolfe,0.019536,18
+The Last Goodbye,Nicholas Payton,0.019936,19
+FVNERAL MOON,Lorna Shore,0.0207432,20
+Plague,Crystal Castles,0.0209715,21
+Here Comes The Night Time II,Arcade Fire,0.0211104,22
+Before It's Time To Say Goodbye,Kenny Garrett,0.0211484,23
+L$D,A$AP Rocky,0.0214682,24
+Gary's Theme - Remastered,Bill Evans,0.021546,25
+Warm In The Winter,Glass Candy,0.02223,26
+Sous le Ciel de Paris,Jacky Terrasson,0.0228038,27
+Pitchblack,Walking Dead On Broadway,0.0228124,28
+Able to See Me,Hippie Sabotage,0.023091,29
+Polaris,deadmau5,0.023316,30
+"String Quartet No. 4 in C Major, D. 46: II. Andante con moto",Franz Schubert,0.0236835,31
+The Shaping Sickness,Shadow of Intent,0.023826,32
+Apathy,Shlohmo,0.0245213,33
+Club Rez,Girl Unit,0.0246528,34
+Mommy's Shawl,Yelena Eckemoff,0.024752,35
+Trust,Roy Hargrove,0.0247779,36
+Prismatic Abyss,Aversions Crown,0.0247793,37
+"Damn Son, Where'd You Find This? - Future of TRAP Mix",Trendsetter,0.0248045,38
+Damn Son Where'd You Find This? (feat. Kelly Holiday) - Markus Maximus Remix,Markus Maximus,0.0248045,39
+Eyes Closed,Halsey,0.024992,40
+Arrogance,Traitors,0.026332,41
+Cloud Atlas End Title,Tom Tykwer,0.026373,42
+Satellite,SALTNPAPER,0.0270655,43
+Van Vogue,Azealia Banks,0.0272739,44
+Blue Ballad,Phil Woods,0.027777,45
+Eyes Be Closed,Washed Out,0.027945,46
+1208,Extortionist,0.027948,47
+Zerotonin 2,Darknet,0.02816,48
+Skyscrapers,Daydreamer,0.0282854,49
+"8 Fantasiestücke, Op.12 : 1. Des Abends",Robert Schumann,0.0285381,50
+Night on Bald Mountain,Modest Mussorgsky,0.0294828,51
+No Absolution,Thy Art Is Murder,0.029952,52
+Where We Used To Live,Esbjörn Svensson Trio,0.0302278,53
+Like Lust,MOVEMENT,0.030353,54
+Poison,Martin Garrix,0.030371,55
+Soil the Stillborn,Infant Annihilator,0.030444,56
+Where Do You Start,Brad Mehldau Trio,0.0306606,57
+Ruin,Altered Perceptions,0.031659,58
+A Darkened Gospel,A Wake in Providence,0.0319865,59
+Right Here,Keys N Krates,0.032144,60
+Parachute,Joshua Micah,0.0327184,61
+Kerosene,Crystal Castles,0.0332442,62
+Rocking Chair,The Districts,0.03439,63
+I Got It Bad,Enrico Pieranunzi,0.0348712,64
+Viola Sonata in C Minor: III. Andante con variazioni,Felix Mendelssohn,0.035105,65
+Bugatti,Ace Hood,0.0353976,66
+Black Mammoth,Fit For An Autopsy,0.03552,67
+Let Me Tell U,Jimmy Edgar,0.0362604,68
+Your Soul,Hippie Sabotage,0.037012,69
+Play by Play,Autre Ne Veut,0.03745,70
+The Cause Of Christ,Kari Jobe,0.0374607,71
+Marriage,Gold Panda,0.038064,72
+The Nearness Of You,Bill Charlap,0.0382617,73
+Beautiful Agony,Within The Ruins,0.0387536,74
+You,Galantis,0.039192,75
+Selfish,Future,0.0394665,76
+Rope,Obscure of Acacia,0.03978,77
+California Nights,Best Coast,0.039984,78
+Rvtchet Bitch,Brillz & Teddy Tuxedo,0.0400371,79
+Black Colors,Victim Of Deception,0.040053,80
+On My Side,Kim Walker-Smith,0.04012,81
+Calgary,Bon Iver,0.040495,82
+Eleanor,Hank Jones,0.04077,83
+Gramercy Sunset,The Hot Sardines,0.0408682,84
+What A Beautiful Name,Hillsong Worship,0.0409464,85
+I Have This Hope,Tenth Avenue North,0.0411028,86
+Advent,Shotgun Surgeon,0.041124,87
+Dance of the Witch,At Rest,0.04128,88
+The Hills,The Weeknd,0.041296,89
+Oh My Soul,Casting Crowns,0.042699,90
+Better,Banks,0.042733,91
+Paris - Pegboard Nerds Remix,The Chainsmokers,0.042957,92
+Come Alive (Dry Bones),Lauren Daigle,0.04329,93
+Even If,MercyMe,0.04355,94
+Permanent Intoxication,Mycelia,0.044016,95
+Good Morning.Goodbye,Dan Cray Trio,0.04536,96
+Death Was Arrested,North Point InsideOut,0.045594,97
+Hunger Of The Pine,alt-J,0.04608,98
+Weight,Mikal Cronin,0.046494,99
+"I See the Light - From ""Tangled""/Soundtrack Version",Mandy Moore,0.04776,100
+I'm in LOVE With GO-GO Dancer (Disco Diva) - Future of TRAP Mix,Trendsetter,0.04794,101
+We Wait,I Declare War,0.048158,102
+Strobe - Radio Edit,deadmau5,0.0482856,103
+Mantra - Mat Zo Remix,Noisia,0.048312,104
+The Great Gig In The Sky - 2011 Remastered Version,Pink Floyd,0.0484,105
+Isadora,Christian Scott,0.04883,106
+"I Was So Young, and You Were So Beautiful",Bill Charlap,0.049135,107
+The Peacocks,Anthony Wonsey Trio,0.049408,108
+Weary,Solange,0.0495846,109
+There Is a Cloud,Elevation Worship,0.049664,110
+I Have Dreamed,Christian McBride,0.050312,111
+Angel Eyes,"Tommy Flanagan, Ron Carter & Tony Williams",0.050952,112
+Prove Me Wrong,Mandisa,0.051075,113
+Cascade - Original Mix,Tommy Trash,0.0511808,114
+Bitch,Allie X,0.0513996,115
+One of Those Nights,Juicy J,0.0514836,116
+The Daily Mail,Radiohead,0.05184,117
+The Daily Mail,Radiohead,0.05184,118
+Jackie Gets Out,Terence Blanchard,0.05235,119
+Gooey,Glass Animals,0.05243,120
+I Don't Sell Molly No More,ILoveMakonnen,0.05244,121
+Desire,DILLY DALLY,0.05291,122
+Pains,Silk Rhodes,0.052982,123
+Queen,Perfume Genius,0.053086,124
+The Call of Mighty,Crucify Me Gently,0.053332,125
+Chemicals - Radio Edit,Tiësto,0.053958,126
+Calling (Lose My Mind) - Radio Edit,Sebastian Ingrosso,0.054384,127
+Can't Help Loving,Beegie Adair,0.054899,128
+Quit (feat. Ariana Grande),Cashmere Cat,0.055,129
+Said So What,French Kicks,0.055016,130
+Monster,Kanye West,0.0553311,131
+Dreamsville,David Halliday,0.055781,132
+Burning youth,Hyukoh,0.055854,133
+Cheap Beer,FIDLAR,0.056516,134
+Spoon Me - Slushii Remix,Elliphant,0.056808,135
+'Till I Collapse,Eminem,0.056914,136
+Old Folks,Xavier Davis,0.05725,137
+Hannah Hunt,Vampire Weekend,0.05727,138
+Of Talons and Teeth,Reaping Asmodeia,0.057285,139
+Too Bad I Have To Destroy You Now,Kid Cudi,0.0574896,140
+Freak,Friction,0.057528,141
+Shock Me,Baroness,0.057816,142
+When Sunny Gets Blue,McCoy Tyner,0.058038,143
+Wishes,Beach House,0.058218,144
+Stay High - Habits Remix,Tove Lo,0.0583648,145
+"Piano Sonata No. 18 in G Major, Op. 78, D. 894: IV. Allegretto",Franz Schubert,0.058506,146
+The Walker,Gayngs,0.058692,147
+So Close,Jon McLaughlin,0.059058,148
+Temptress,Enterprise Earth,0.059124,149
+I'm a Dildo,No Parents,0.05957,150
+King Of The World,Natalie Grant,0.059664,151
+Drifting In And Out,Porcelain Raft,0.059783,152
+Wait for the Man,FIDLAR,0.0598,153
+Stay,Rihanna,0.0599192,154
+Fire In Your New Shoes (feat. Martina of Dragonette) - Sultan & Ned Shepard Electric Daisy Remix,Kaskade,0.059964,155
+From This Moment On,Shania Twain,0.060348,156
+The Cross Has The Final Word,Cody Carnes,0.060979,157
+Chasing Heaven,Bassnectar,0.061134,158
+We Fall Down,ASTR,0.0612048,159
+Nowhere,Sarah Reeves,0.061502,160
+Soul in Twilight,John Moulder,0.0616,161
+Milly Rock,2milly,0.06165,162
+Fauxhammer,Black Tongue,0.061812,163
+Even So Come - Radio Version/Live,Passion,0.062608,164
+I Wanna Be Your Dog,The Stooges,0.06324,165
+I Remember Clifford,Lee Morgan,0.063296,166
+The Night We Met,Lord Huron,0.064233,167
+Raven,John Dahlbäck,0.064297,168
+I Need You,Glass Figure,0.064692,169
+How Deep Is Your Love?,The Rapture,0.064722,170
+Satellites,DubVision,0.065076,171
+Blue in Green,Miles Davis,0.065255,172
+Crown Violet - Bonus Track,Azizi Gibson,0.065624,173
+"I, the Weak",The Voynich Code,0.066013,174
+Clean,Natalie Grant,0.066424,175
+Emperor Jones - Instrumental,Joe Lovano,0.066528,176
+Negative,FRCTRD,0.067308,177
+Defiled,Hive,0.068376,178
+City Of Dreams - Radio Edit,Dirty South,0.068544,179
+Worthy Of Your Name - Studio,Passion,0.068571,180
+False Hope,The Machinist,0.06874,181
+"String Quartet No. 5 in C Major, Op. 29, ""Serenade"": II. Ballata: Allegretto scherzando",Wilhelm Stenhammar,0.06929,182
+Pyramids,Frank Ocean,0.069373,183
+The Man I Love,Marcus Roberts,0.06968,184
+Tremendous Strain,Science Of Sleep,0.07008,185
+Touch The Sky,Cedric Gervais,0.070263,186
+Debris,Paragon,0.070532,187
+A Thousand Years,Christina Perri,0.070728,188
+Ballad for MC,Grace Kelly,0.07161,189
+You Wouldn't Even Know,Flower Soo,0.07175,190
+Earth Song - Remastered Version,Michael Jackson,0.072562,191
+River,Ibeyi,0.072594,192
+River,Ibeyi,0.072594,193
+Stoned and Starving,Parquet Courts,0.072996,194
+Shapeless Abomination,Beyond the Extraction,0.072998,195
+Romance / Hommage à Milhaud,Enrico Pieranunzi,0.073188,196
+All I See is Us,Sassy Players,0.0736,197
+You Are My Special Angel,The Vogues,0.073868,198
+Secret Love Song,Little Mix,0.074226,199
+Almas vaggvisa,Jan Lundgren Trio,0.074496,200
+To The Top,Twin Shadow,0.074646,201
+Something About You - ODESZA Remix,Hayden James,0.075154,202
+Walk With Me,Memoryhouse,0.075487,203
+It All Feels Right,Washed Out,0.075524,204
+Recover,CHVRCHES,0.075992,205
+Oh My - Club Mix,The Partysquad,0.07631,206
+Two Sleepy People,Marcus Gilmore,0.07654,207
+Venomous,Whitechapel,0.076591,208
+Recover,CHVRCHES,0.07683,209
+Un-Break My Heart,Toni Braxton,0.076875,210
+Gloomy Sunday,Branford Marsalis,0.077043,211
+Ways Of Transfiguration,Buried Side,0.0774,212
+Let You Go,Mot,0.077406,213
+Mad Love.,JoJo,0.07756,214
+Night Drive,Part Time,0.077945,215
+Turn Down for What,DJ Snake,0.0779554,216
+Leave Me Here,Triosence,0.077976,217
+Waves - Acoustic,Dean Lewis,0.078246,218
+Balance,Future Islands,0.078352,219
+Count Your Blessings,Seamus Blake,0.078496,220
+New World Slaughter,Iconoclast,0.07986,221
+All The Way,Bob Berg,0.08037,222
+Bring Me the Night,Sam Tsui feat. Kina Grannis,0.080565,223
+The Winner Is - from Little Miss Sunshine,DeVotchKa,0.081096,224
+Girlfriend,Ty Segall,0.081536,225
+High Ball Stepper,Jack White,0.08172,226
+Obedear,Purity Ring,0.08228,227
+Hear Me Out,Risking It All,0.082476,228
+Pyramids,Frank Ocean,0.08262,229
+The Mighty Ming - Original Club Mix,Funkagenda,0.08316,230
+This Lonely Morning,Best Coast,0.083345,231
+Wake Bake Skate,FIDLAR,0.08364,232
+Drown Me in Blood,Carnifex,0.08381,233
+I Don't Love You,Urban Zakapa,0.08435,234
+I Got It Bad And That Ain't Good,Oscar Peterson Trio,0.084672,235
+To Encompass and Eclipse,A Trust Unclean,0.0849,236
+The Nearness of You,Joshua Redman,0.08493,237
+"Vid Frösö kyrka (At Frösö Church) - From Frösöblomster (Frösö Flowers) (arr. J. Ekberg, P.V. Johansson and L. Simonsson)",Trio X of Sweden,0.085065,238
+Hold On We're Going Home,ASTR,0.085312,239
+Skyscraper,Elephant,0.08541,240
+Sleeping Ute,Grizzly Bear,0.085674,241
+Before,Washed Out,0.08619,242
+"Lyric Pieces, Book I Op. 12: I. Arietta",Edvard Grieg,0.086193,243
+Drop Dead Baby,Ty Segall,0.087278,244
+Plague of Immortality (feat. Dean Lamb Of Archspire),Within Destruction,0.087792,245
+I Didn't Know About You,Johnny Hodges,0.088068,246
+Don't Mean A Thing,Lapalux,0.08946,247
+I'll Let You Know,David Hazeltine,0.09061,248
+Fall In Love,Phantogram,0.090828,249
+Good Morning Heartache,Scott Hamilton,0.090998,250
+Waiting,Dash Berlin,0.0912,251
+You Redeem - Studio Version,Aaron Shust,0.091245,252
+Goodbye Pork Pie Hat,Charles Mingus,0.092204,253
+A Song For Mama,Boyz II Men,0.092502,254
+Inferno,"Above, Below",0.092547,255
+Snow Cats,AFI,0.093324,256
+5ft7,Tonstartssbandht,0.093412,257
+Unchained Melody,The Righteous Brothers,0.093585,258
+A Nightingale Sang In Berkeley Square,Stan Getz,0.09361,259
+Obedear,Purity Ring,0.093636,260
+Everything,R3hab,0.093912,261
+Unbound,Cathedrals,0.09405,262
+Together,Martin Garrix,0.094165,263
+Can't Take It,Breathe Carolina,0.09456,264
+The Folks Who Live on the Hill,Joshua Redman,0.094588,265
+Holdin On,Flume,0.0946,266
+Faded,Alan Walker,0.094829,267
+Chords Of Life - Original Mix,Tim Mason,0.094985,268
+Episode I - Duel of The Fates,John Williams,0.09548,269
+Episode I - Duel of The Fates,John Williams,0.09548,270
+Every Loser Wins,Nick Berry,0.095892,271
+No Rest For The Wicked,Lykke Li,0.096096,272
+The Sweetest Nighlife,Ellie & The Bunch,0.096475,273
+O God Forgive Us,for KING & COUNTRY,0.096976,274
+9,Willow,0.09712,275
+We Own The Sky,M83,0.097356,276
+Substance Affliction,Advocates,0.09751,277
+Speak to a Girl,Tim McGraw,0.09758,278
+It Never Entered my Mind,Mulgrew Miller,0.0979,279
+To Live Is Christ,Sidewalk Prophets,0.097913,280
+"Lone Wolf and Cub (feat. Herbie Hancock, Flying Lotus, Miguel Atwood-Ferguson & Mono/poly)",Thundercat,0.098044,281
+Last Chance,Kaskade,0.098468,282
+Words I Don't Remember,How To Dress Well,0.09991,283
+Say The Word,Hillsong United,0.099957,284
+I Think She Like Me,Rick Ross,0.100011,285
+Down into the Abyss,Conjonctive,0.100298,286
+Party Monster,The Weeknd,0.101205,287
+Manufactured Existence,Lord of War,0.101346,288
+Where or When,Wynton Marsalis,0.101386,289
+Verge,Owl City,0.10175,290
+My Sub (Pt. 2: The Jackin') - Album Version (Edited),Big K.R.I.T.,0.102289,291
+I'm a Fool to Want You,Passport Quartet,0.102396,292
+Upper Echelon,Travis Scott,0.10244,293
+After All,Khrebto,0.102648,294
+Locket,Kilo Kish,0.102816,295
+Norf Norf,Vince Staples,0.103395,296
+Journey Into Melody - 2007 Digital Remaster,Stanley Turrentine,0.103525,297
+Are you... Can you... Were you? (Felt),Shabazz Palaces,0.103914,298
+Puppy Love,Donny Osmond,0.104095,299
+Words I Don't Remember,How To Dress Well,0.104468,300
+Gyöngyhajú lány,Omega,0.104538,301
+Tattooed Heart,Ariana Grande,0.104874,302
+Distorting of Perception,Until We Die,0.10556,303
+Alright,Logic,0.105586,304
+Walk On By - Single Version,Isaac Hayes,0.105774,305
+Be A Body,Grimes,0.105984,306
+We Are Young - The Popopopops Remix,Juveniles,0.105994,307
+Bound 2,Kanye West,0.106264,308
+Ironic,Alanis Morissette,0.106495,309
+m.A.A.d city,Kendrick Lamar,0.107004,310
+Monster,PALGOU,0.107709,311
+Sign of the Times,Harry Styles,0.107844,312
+Calm Down,Skip Marley,0.108225,313
+Change The World (feat. Hollyn),Derek Minor,0.108724,314
+I'll Wait And Pray,John Coltrane,0.108775,315
+Phone Down - Dodge & Fuski Remix,Lost Kings,0.108885,316
+MDA,Problem,0.109047,317
+Crash 2.0 (Adventure Club vs. DallasK),Adventure Club,0.11022,318
+Scared to Be Lonely,Martin Garrix,0.11096,319
+White Label (Is This Love),Still Young,0.11136,320
+Light - GOSLO Remix,San Holo,0.111534,321
+Hands On the Wheel (feat. a$Ap Rocky),ScHoolboy Q,0.111758,322
+Oceans (Where Feet May Fail) - Radio Version,Hillsong United,0.111825,323
+The Shadow of Your Smile,Scott Hamilton,0.11201,324
+Run Wild - Alternative Edit Mix Cut,Hardwell,0.1121,325
+For Wee Folks,Joey Alexander,0.11233,326
+Angels,The xx,0.112518,327
+R U With Me,ASTR,0.112554,328
+For Your Love - Olav Basoski Remix,The Partysquad,0.112788,329
+Hell Of A Night,ScHoolboy Q,0.11352,330
+Kim & Jessie,M83,0.113544,331
+Master Of None,Beach House,0.11362,332
+Loud Places,Jamie xx,0.113696,333
+Wasted Love (feat. Dougy),Steve Angello,0.113729,334
+Black Out Stout,FIDLAR,0.113772,335
+Antidote,Travis Scott,0.113844,336
+Black Honey,Thrice,0.114036,337
+Hands On The Wheel,ScHoolboy Q,0.114048,338
+Running Up That Hill (A Deal With God),Kate Bush,0.114296,339
+Close,IZECOLD,0.114759,340
+Whatcha Need,W&W,0.115149,341
+Nissim,The Gaslamp Killer,0.115182,342
+The New International Sound,GENER8ION,0.115218,343
+A Hundred Dreams from Now,Ray Bryant,0.115584,344
+Tides of Neptune,Virgo,0.1158,345
+Why Can't I?,Liz Phair,0.115906,346
+Automatic,Castro,0.117062,347
+Sabali,Amadou & Mariam,0.117412,348
+Beautiful Disaster,Jon McLaughlin,0.117445,349
+What Time Is Love (Live at SSL mix),Lifelike,0.117504,350
+Papi Pacify,FKA twigs,0.117527,351
+Neptune,Lemonade,0.117546,352
+Know Yourself,Drake,0.1176,353
+Legacy,Dimitri Vangelis & Wyman,0.117987,354
+American Dream,Chelsea Grin,0.11809,355
+Deja Vu,J. Cole,0.118193,356
+Angel of Mine - Radio Mix,Monica,0.1184,357
+All My Life,K-Ci & JoJo,0.118558,358
+Viol - Original Mix,Gesaffelstein,0.118803,359
+The Arms of the One Who Loves You,Xscape,0.118917,360
+Move for Me,Kaskade,0.118932,361
+The One,The Chainsmokers,0.11932,362
+All These Things That I've Done,The Killers,0.119412,363
+do re mi,Blackbear,0.11952,364
+Teenage Crime - Axwell & Henrik B Remode,Adrian Lux,0.1196,365
+Water,Jamaican Queens,0.1196,366
+My Little Brown Book,Duke Ellington,0.12079,367
+Romance in Seoul,Neon Bunny,0.120888,368
+Sad Eyes,Crystal Castles,0.121108,369
+Awake,Santé,0.121164,370
+Birthday Song,2 Chainz,0.121176,371
+Her Fantasy,Matthew Dear,0.121302,372
+Her Fantasy,Matthew Dear,0.121302,373
+"Beauty and the Beast - From ""Beauty and the Beast""",Ariana Grande,0.121524,374
+Work - The Advent & Spiriakos Remix,ZZT,0.121636,375
+Waiting Around For Grace,Pond,0.121757,376
+Pictures Of Matchstick Men,Status Quo,0.121946,377
+Unanswered,Suicide Silence,0.122388,378
+Civilization,Justice,0.122808,379
+No Sleep,Bougenvilla,0.122982,380
+Like A Bitch - Kill The Noise Remix,Kill The Noise,0.123224,381
+Ima Boss - feat. Rick Ross,Meek Mill,0.12358,382
+I Can't Fall in Love Without You,Zara Larsson,0.123675,383
+A Dustland Fairytale,The Killers,0.123921,384
+(Everything I Do) I Do It For You,Bryan Adams,0.124188,385
+Yebisah,Mark Knight,0.1242,386
+Throne Room,Kim Walker-Smith,0.125195,387
+Kush High,Eighty4 Fly,0.12545,388
+Oblivion,The Seshen,0.125496,389
+Abducted,Cults,0.126038,390
+I'd Do Anything For Love (But I Won't Do That),Meat Loaf,0.126054,391
+With That (feat. Duke),Young Thug,0.126168,392
+Tin Man,Miranda Lambert,0.126225,393
+Scared To Be Lonely (Brooks Remix),Martin Garrix,0.126236,394
+Blow a Bag,Future,0.12688,395
+Aloha,Chris Bear,0.12765,396
+At My Best (feat. Hailee Steinfeld),Machine Gun Kelly,0.128744,397
+Something Just Like This - ARMNHMR Remix,The Chainsmokers,0.128744,398
+I'm Glad,Captain Beefheart & His Magic Band,0.128832,399
+On Bended Knee,Boyz II Men,0.12954,400
+River,Leon Bridges,0.129626,401
+Inferiority,Neberu,0.129648,402
+Open,Rhye,0.129724,403
+I'll Pick You Up,Standing Egg,0.129978,404
+Middle,DJ Snake,0.130284,405
+She a Go (feat. Spinn & Taso),DJ Rashad,0.130536,406
+Rose Horizon,Yellow Claw,0.131494,407
+Slow Down,Clyde Carson,0.131537,408
+Summer Is Over feat. Sara Bareilles,Jon McLaughlin,0.131572,409
+The Moment,Tame Impala,0.132587,410
+Let Me Try,Kaleidoscope,0.1326,411
+A Hundred Ropes,Minor Victories,0.132904,412
+Kyoto (feat. Sirah),Skrillex,0.1331,413
+Shut Up Kiss Me,Angel Olsen,0.133161,414
+Stone Cold,Demi Lovato,0.133308,415
+Doubts 2,Ibrahim Maalouf,0.133536,416
+Chop Suey!,System Of A Down,0.13356,417
+Ride On / Right On,Phosphorescent,0.134211,418
+Go Down in History,Four Year Strong,0.134835,419
+Capitol,TR/ST,0.135729,420
+Get What You Give,Felix Cartal,0.135842,421
+The Devil's Bleeding Crown,Volbeat,0.13585,422
+Summer,Marshmello,0.136422,423
+You'll Never Walk Alone - 2002 Remastered Version,Gerry & The Pacemakers,0.136488,424
+BIG Fun - Full Intention 88 Remix,Inner City,0.13651,425
+Billie Holiday,Warpaint,0.136752,426
+"10,000 Reasons (Bless the Lord) [Radio Version]",Matt Redman,0.136782,427
+Just Say The Word,Jerry Townes,0.1368,428
+My All In All,Phil Wickham,0.136904,429
+Open,Yellow Claw,0.137286,430
+"The New International Sound, Pt. 2 (feat. M.I.A.)",GENER8ION,0.137544,431
+Baby,Donnie & Joe Emerson,0.137668,432
+In Awe,Hollyn,0.137984,433
+All I Wanna Do,The Beach Boys,0.138123,434
+Quit You - Wuki Remix,Lost Kings,0.138198,435
+Pyramid (feat. Iyaz),Charice,0.138252,436
+Breakn' A Sweat,Skrillex,0.138272,437
+Feel The Volume,Jauz,0.138475,438
+Autumn Nocturne,Lou Donaldson,0.138523,439
+Harlem Shake,Baauer,0.138589,440
+Paranoia,A Day To Remember,0.138651,441
+Ironic - 2015 Remastered,Alanis Morissette,0.13872,442
+Honest,Joseph,0.138768,443
+Modern Flame (feat. Yuna),Emmit Fenn,0.138825,444
+Wrath Of God,Crystal Castles,0.138996,445
+Otherside,Suyano,0.13923,446
+Adorn,Miguel,0.139375,447
+Help,Papa Roach,0.139425,448
+God Must Have Spent a Little More Time on You - Remix,*NSYNC,0.139464,449
+I'll Make Love To You,Boyz II Men,0.139624,450
+Chained,The xx,0.139812,451
+Flow,Disclosure,0.13986,452
+I Won't Let You Go - Radio Version,Switchfoot,0.139916,453
+Don't You Cry For Me,Cobi,0.14022,454
+Human,Jon McLaughlin,0.140679,455
+Time-Out,Terror Train,0.141215,456
+Almost Is Never Enough,Nathan Sykes,0.1416,457
+Don't Say,Lullanas,0.141804,458
+Clique,JAY Z,0.141968,459
+Ready 2 Go,Martin Solveig,0.142004,460
+Summer Madness,Kool & The Gang,0.14214,461
+Genesis,Grimes,0.142363,462
+I'm Going Down,Rose Royce,0.142956,463
+Best Night,The War On Drugs,0.143075,464
+Broken Things,Matthew West,0.143314,465
+Iris,The Goo Goo Dolls,0.143463,466
+Exchange,Bryson Tiller,0.14416,467
+Sentimental Trash,Sweet Valley,0.144263,468
+Cake Love (PROD. BY The Black Skirts),XIA,0.144288,469
+Gonna Die,Autre Ne Veut,0.144786,470
+Xanny Family,Future,0.144974,471
+Bambi,Jidenna,0.145112,472
+Drippin,MiM0SA,0.14553,473
+Kingdom Come,Demi Lovato,0.146228,474
+If I Told You,Darius Rucker,0.1465,475
+C'Est La Vie,Booba,0.146804,476
+One Fine Day,The Chiffons,0.147337,477
+Delorean Dynamite,Todd Terje,0.147722,478
+Dead Sound,The Raveonettes,0.14775,479
+Move Your Body - Extended Mix,Benny Benassi,0.147934,480
+Amen,Hunter Hayes,0.147957,481
+Feels Like We Only Go Backwards,Tame Impala,0.148701,482
+M.E.N,Bugzy Malone,0.148764,483
+Demon To Lean On,Wavves,0.149,484
+Bastard Son,God Of Nothing,0.149172,485
+All Eyes On You (feat. Chris Brown & Nicki Minaj),Meek Mill,0.149606,486
+Hot N*gga,Bobby Shmurda,0.150066,487
+Alive In You - Studio Version,Jesus Culture,0.15015,488
+Past Lives,DIIV,0.150972,489
+Uncast Shadow Of A Southern Myth,Parquet Courts,0.151632,490
+Thunder,Imagine Dragons,0.152,491
+I Will,Citizen Way,0.152067,492
+Titanium (feat. Sia),David Guetta,0.152146,493
+Leave A Trace,CHVRCHES,0.15219,494
+Hold It All,Cody Carnes,0.153472,495
+Scared To Be Lonely (Conro Remix),Martin Garrix,0.153807,496
+Milky Way,Madison Mars,0.153881,497
+No Le Digas Que Hacer,Karina Vismara,0.154326,498
+Blood On The Leaves,Kanye West,0.15438,499
+Way Down We Go,Kaleo,0.15458,500
+Want My Love,Cathedrals,0.154785,501
+Rub off,Kim Woo-Joo,0.155104,502
+The Righteous One,The Orwells,0.155211,503
+"Flashlight (Sweet Life Mix) - From ""Pitch Perfect 2"" Soundtrack",Hailee Steinfeld,0.15555,504
+For You,Demi Lovato,0.156045,505
+"Wild One Two - feat. David Guetta, Nicky Romero & Sia",Jack Back,0.156066,506
+Acamar,Frankey,0.156177,507
+Heavy,Birdtalker,0.15657,508
+Don't Owe You a Thang,Gary Clark Jr.,0.156792,509
+Midnight City,M83,0.157274,510
+Lady Brain,The Harmaleighs,0.157344,511
+Front to Back,Buku,0.15745,512
+With Me,Vanilla Acoustic,0.15768,513
+Living Every Dream,Antwon,0.157828,514
+Unfinished,Mandisa,0.158355,515
+Just Wanna Love You Girl,Epsilons,0.1584,516
+No New Friends - SFTB Remix,DJ Khaled,0.1589,517
+Save the World,Swedish House Mafia,0.158922,518
+Can't Get Enough - Pegboard Nerds Remix,Tommie Sunshine,0.159083,519
+Ode To Viceroy,Mac Demarco,0.15934,520
+Cool for the Summer,Demi Lovato,0.159705,521
+Love in a Bar,Ryan Hurd,0.160256,522
+Serpents,Neck Deep,0.160407,523
+Rewind,Kelela,0.161136,524
+She On My Dick,Rick Ross,0.161218,525
+Sleepwalk,Santo & Johnny,0.161616,526
+Life Round Here,James Blake,0.161736,527
+Anna Sun,WALK THE MOON,0.161896,528
+No Ass,FIDLAR,0.162405,529
+New Slaves,Kanye West,0.1625,530
+I'm Glad There Is You,Bill Mobley,0.1628,531
+Apple of My Eye,Rick Ross,0.163176,532
+Forgiven,Crowder,0.163725,533
+Save My Soul,JoJo,0.164024,534
+Reasons,Jillian Jacqueline,0.164325,535
+TESTIFY,NEEDTOBREATHE,0.16434,536
+On Our Own (feat. Natalie Major),Showtek,0.164498,537
+Childs Play (feat. Chance the Rapper),SZA,0.165244,538
+Howl,Florence + The Machine,0.1653,539
+Great Are You Lord (Radio Mix),one sonic society,0.165312,540
+"It's Not My Fault, I'm Happy",Passion Pit,0.165579,541
+Changes - Dirty South Remix,Chris Lake Feat. Laura V,0.165677,542
+You Go To My Head,Art Pepper,0.166175,543
+White Rabbit,Jefferson Airplane,0.166617,544
+Eye of the Storm (feat. Gabe Real),Ryan Stevenson,0.166835,545
+Didn't You,Cloud Nothings,0.167526,546
+O.G,Booba,0.16758,547
+Sanctified,Rick Ross,0.16767,548
+Love Sosa,Chief Keef,0.168078,549
+Taifa - The Emperor Machine Mix,Partial Arts,0.168418,550
+One Of Those Love Songs,Xscape,0.168941,551
+Coming Around Again,Carly Simon,0.169108,552
+Civilization,Justice,0.169625,553
+Mamacita,Travis Scott,0.170361,554
+Santorini Greece,Rick Ross,0.170562,555
+Riot Call (feat. Nevve),QUIX,0.170892,556
+Midnight City,M83,0.171127,557
+Zac Brown Band - Hot Country,Various Artists,0.172189,558
+My Bad - Club Mix,The Partysquad,0.172602,559
+Brightside - Borgeous Remix,Icona Pop,0.172656,560
+Do I Love You?,The Ronettes,0.17325,561
+Big Jet Plane - Animal Trainer Remix,Jan Blomqvist,0.17355,562
+Temporary View,SBTRKT,0.173676,563
+Standard,Empress Of,0.174376,564
+It #1,Ty Segall,0.17472,565
+My Old Man,Zac Brown Band,0.17472,566
+Back To God,Reba McEntire,0.174736,567
+You're the Best,Wet,0.174762,568
+Hold Up,Borgeous,0.174782,569
+Tears,Matt Hammitt,0.175252,570
+Nothing Ever Happened,Deerhunter,0.176638,571
+Faded - Slushii Remix,Alan Walker,0.1768,572
+Live Your Life - feat. Rihanna,T.I.,0.177,573
+Litty (feat. Tory Lanez),Meek Mill,0.177008,574
+Cry Like A Ghost,Passion Pit,0.177045,575
+Swimming Pools (Drank) - Extended Version,Kendrick Lamar,0.17748,576
+Swimming Pools (Drank) - Extended Version,Kendrick Lamar,0.17748,577
+Heroes (we could be),Alesso,0.17799,578
+Go,Grimes,0.178848,579
+Dirty Waters,Into Oblivion,0.17919,580
+I Wanna Get Better,Bleachers,0.179292,581
+Myth,Beach House,0.180992,582
+Myth,Beach House,0.180992,583
+Hot Dreams,Timber Timbre,0.181365,584
+There’s A Girl,Trent Harmon,0.181447,585
+Chain Breaker,Zach Williams,0.18145,586
+All Aloud,Adrian Lux,0.182208,587
+Be There,Krewella,0.182479,588
+Breathe Again,Toni Braxton,0.182585,589
+Bad and Boujee (feat. Lil Uzi Vert),Migos,0.182988,590
+Remember,Gino Soccio,0.183133,591
+Now I Do What I Want,Lil Zay Poppin,0.183138,592
+Passing Out Pieces,Mac Demarco,0.18348,593
+Nite Time - Ruby & Tony Radio Edit,George Acosta,0.183774,594
+Blue and Sentimental,Julian Dash,0.18392,595
+I'll Never Break Your Heart,Backstreet Boys,0.18445,596
+Magnolia,Young & Sick,0.184734,597
+Counting,Autre Ne Veut,0.184782,598
+They Don't Know,Jason Aldean,0.184884,599
+Run,Okdal,0.185168,600
+Either Way,Chris Stapleton,0.185249,601
+Look Alive,Rae Sremmurd,0.185334,602
+Strychnine,The Sonics,0.185691,603
+Over And Over Again,Nathan Sykes,0.18612,604
+BKNY,Fat Tony,0.186282,605
+Count On You,Big Time Rush,0.186296,606
+Ohio - filous Remix,Damien Jurado,0.186888,607
+Without U,Steve Aoki,0.187143,608
+My Romance,Gene Ammons,0.187312,609
+Freesol (feat. Skyler Stonestreet),Seven Lions,0.187389,610
+Kiwi,Harry Styles,0.1875,611
+Bad Boys (feat. Ghetts and J Hus),Stormzy,0.187533,612
+Light - Loosid Remix,San Holo,0.18824,613
+25 Bucks [feat. Purity Ring],Danny Brown,0.188703,614
+Best Wishes,Iamsu!,0.189088,615
+Beauty and the Beast,Bugzy Malone,0.189854,616
+Ego Free Sex Free,Autre Ne Veut,0.190384,617
+Portugal,WALK THE MOON,0.190888,618
+Wi Ing Wi Ing,Hyukoh,0.191675,619
+Idols Become Rivals,Rick Ross,0.191919,620
+Confident,Demi Lovato,0.191958,621
+Push,Matchbox Twenty,0.19278,622
+Hurricane,Luke Combs,0.193591,623
+Eyes Wide Open,Sabrina Carpenter,0.193966,624
+All We Need (feat. Shy Girls),ODESZA,0.194488,625
+Young And Menace,Fall Out Boy,0.195048,626
+When Will I Learn,Kina Grannis,0.195453,627
+Lean On (feat. MØ & DJ Snake),Major Lazer,0.195933,628
+Virile,The Blaze,0.196231,629
+No Type,Rae Sremmurd,0.196248,630
+Loner,Burial,0.196742,631
+Aamon,Kuuro,0.196945,632
+GOT IT GOOD,KAYTRANADA,0.19695,633
+In My Mind (Axwell Remix),Ivan Gough & Feenixpawl feat. Georgi Kay,0.19698,634
+18 With A Bullet,Pete Wingfield,0.19708,635
+Walkabout (W/ Noah Lennox),Atlas Sound,0.197248,636
+Coming Home,Leon Bridges,0.197274,637
+Sex on Fire,Kings of Leon,0.19783,638
+HOW WAS YOUR DAY,Sugarbowl,0.1981,639
+Falling Back - Radio Edit,Cosmic Gate,0.198208,640
+Versace Python,Riff Raff,0.198432,641
+Just A Little Lovin',Dusty Springfield,0.198594,642
+What I Might Do - Kilter Remix,Ben Pearce,0.199444,643
+Against All Odds (Take a Look at Me Now),Mariah Carey,0.200196,644
+Comeback Kid,Sleigh Bells,0.2002,645
+Wakin on a Pretty Day,Kurt Vile,0.200491,646
+We Exist,Arcade Fire,0.200718,647
+On'n'On - Ruined by Rick Rubin,Justice,0.200736,648
+Take Care,Drake,0.201433,649
+Char,Crystal Castles,0.201929,650
+Lofticries,Purity Ring,0.202642,651
+Light House,Future Islands,0.202752,652
+Like Home,Colin & Caroline,0.202927,653
+White Iverson,Post Malone,0.203476,654
+Solicitude,Belie My Burial,0.20384,655
+Grinder,Gary Clark Jr.,0.203928,656
+Baby,Ariel Pink's Haunted Graffiti,0.204016,657
+Again,Fetty Wap,0.204204,658
+The Devil's Den,Skrillex,0.204512,659
+Hills and Valleys (The Valleys Version),Tauren Wells,0.204606,660
+Slow Jam,Usher,0.204692,661
+Motherless Child,Romare,0.204984,662
+Oh My Darling Don't Meow (Just Blaze Remix),Run The Jewels,0.205092,663
+If I Gave You My Love,Myron & E,0.205312,664
+Max Can't Surf,FIDLAR,0.20544,665
+Play This (Also),J Rocc,0.205572,666
+Save the World - Radio Mix,Swedish House Mafia,0.205842,667
+Work This Body,WALK THE MOON,0.205869,668
+For Your Love,The Yardbirds,0.206118,669
+Char,Crystal Castles,0.20672,670
+Like Nobody's Around,Big Time Rush,0.206858,671
+Symphony of the Nymph,Ariel Pink's Haunted Graffiti,0.207018,672
+Trying To Drive,Zac Brown Band,0.207452,673
+Giudecca,Ghost Culture,0.208356,674
+If You Could Only See,Tonic,0.208917,675
+Lonely Boy,The Black Keys,0.210752,676
+Man I Need,Jagwar Ma,0.210838,677
+Centuries,Fall Out Boy,0.21098,678
+Hated,Beartooth,0.211596,679
+Oh,FIDLAR,0.212004,680
+Fried Neck Bones And Some Home Fries - Dan The Automator Remix,Willie Bobo,0.212036,681
+Sneakin’,Drake,0.212256,682
+Right In,Skrillex,0.212424,683
+Man In The Mirror,Michael Jackson,0.212792,684
+"Afraid, Unafraid",SLUMBERJACK,0.213187,685
+Memorial Day,The Accidentals,0.2132,686
+Hearteater,To The Grave,0.214676,687
+Calm Down,G-Eazy,0.2148,688
+I Ain't Trippin off Nothin,Ezale,0.215107,689
+Get Away,CHVRCHES,0.215517,690
+Mmm Mmm Mmm Mmm,Crash Test Dummies,0.21576,691
+Glimpse,Kim Walker-Smith,0.216027,692
+Ziggy Starfish (Anxiety Raps) [feat. Gold Panda],Open Mike Eagle,0.216511,693
+Kathy Lee,Jessy Lanza,0.216651,694
+Acamar,Frankey,0.216767,695
+Black And White,Parquet Courts,0.217194,696
+Love Wins,Love and Theft,0.217338,697
+Fiesta - Remix,Bomba Estéreo,0.217356,698
+Ki-dult,SBGB,0.217932,699
+Can't Blame a Girl for Trying,Sabrina Carpenter,0.218064,700
+Look At Wrist,Father,0.218124,701
+Make U Love Me,Tujamo,0.218272,702
+Carl Sagan,Night Moves,0.21855,703
+Now Is Not the Time,CHVRCHES,0.219075,704
+One Life Short,Geoxor,0.219505,705
+Let Me Show You Love,Cut Copy,0.219837,706
+Blackout - Madison Mars Radio Mix,Tritonal,0.22022,707
+Get Up,Craig Bratley,0.220849,708
+Coucou disco,Dim Sum,0.220968,709
+Loop,NELL,0.221052,710
+Malibu,Miley Cyrus,0.22148,711
+"Hold On, We're Going Home",Drake,0.221564,712
+Caramel,Booba,0.22177,713
+My Sunshine,Ty Segall,0.221917,714
+Tupelo,Steve Cropper,0.22194,715
+Need You Now,Cut Copy,0.222035,716
+Clouds Over the Pacific,James Pants,0.222229,717
+Magnify,We Are Messengers,0.222438,718
+dance yrself clean - live at madison square garden,LCD Soundsystem,0.2232,719
+Black Skinhead,Kanye West,0.2232,720
+Next Order,Dog Blood,0.22344,721
+Won't Look Back,Duke Dumont,0.223844,722
+Mykonos (feat. Fleet Foxes),Rhythms Del Mundo,0.223846,723
+Home,Chris Tomlin,0.224172,724
+Sophia So Far,Goodnight Radio,0.224338,725
+1-800-273-8255,Logic,0.224542,726
+300 Violin Orchestra,Jorge Quintero,0.22458,727
+Back to You,WILD,0.225049,728
+Fuck It All Up (feat. JVZEL),DOLF,0.225228,729
+I Don't Want,Jungkey,0.225446,730
+Primetime (feat. Miguel),Janelle Monáe,0.225446,731
+Now Is Not The Time,CHVRCHES,0.225981,732
+Time Has Come Today,The Chambers Brothers,0.225984,733
+Learn to Fly,Foo Fighters,0.226524,734
+More Than Conquerors (Radio Version),Steven Curtis Chapman,0.22672,735
+Walk Away,LVNDSCAPE,0.226795,736
+In Case You Didn't Know,Brett Young,0.227076,737
+Childs Play,Drake,0.227612,738
+Cavern,Liquid Liquid,0.227788,739
+"This Ain't A Scene, It's An Arms Race",Fall Out Boy,0.228232,740
+VHS Sex,Com Truise,0.228276,741
+Second Song,TV On The Radio,0.228651,742
+Turn up the Speakers - Radio Edit,Afrojack,0.229052,743
+Falling,HAIM,0.22971,744
+Cemalim,Erkin Koray,0.229743,745
+The Jam,Kideko,0.22984,746
+She Looks So Perfect,5 Seconds of Summer,0.230231,747
+Nightcall,Kavinsky,0.230585,748
+Flag of the Beast,Emmure,0.230585,749
+Flutes,Hot Chip,0.230794,750
+Black Out Days,Phantogram,0.230892,751
+September Song,JP Cooper,0.231133,752
+How You Remind Me - LP Mix,Nickelback,0.23192,753
+Choices (Yup),E-40,0.232029,754
+Sitting Pretty (feat. Wiz Khalifa),Ty Dolla $ign,0.232092,755
+Battles,The Afters,0.23229,756
+Oh lala,PNL,0.232362,757
+Traffic,Lil Reese,0.232448,758
+Embody,Sebastian,0.232552,759
+Fuego,Alok,0.23256,760
+I Keep Ticking On,The Harmaleighs,0.232974,761
+Talk About,Les Sins,0.233618,762
+N.O. Bounce,Big Freedia,0.234215,763
+Hey Jealousy,Gin Blossoms,0.23432,764
+Drunk in Love,Beyoncé,0.234422,765
+Do I Wanna Know?,Arctic Monkeys,0.234544,766
+For You I Will,Monica,0.23472,767
+All I Know,EDX,0.235504,768
+Counting Down The Days - Yotto Edit,Above & Beyond,0.236544,769
+Shape of You (Major Lazer Remix) [feat. Nyla & Kranium],Ed Sheeran,0.236654,770
+Location,Khalid,0.236992,771
+Photograph (feat. Bea Miller),Boyce Avenue,0.237327,772
+Mask Off,Future,0.238238,773
+Mask Off,Future,0.238238,774
+Bad Bitch (feat. Ty Dolla $ign),Bebe Rexha,0.238784,775
+1-800-273-8255,Logic,0.23902,776
+Kenosha,Swearin',0.23904,777
+This Time Around,Softwar,0.239085,778
+Métele,Buscabulla,0.239232,779
+Speakerbox (feat. Lafa Taylor),Bassnectar,0.239304,780
+Please Stop Making Fake Versace,Father,0.23961,781
+I've Seen Footage,Death Grips,0.239994,782
+Slow Down,Poolside,0.2401,783
+Treat Me Like Fire,LION BABE,0.24012,784
+No Woman,Whitney,0.240948,785
+Wildcard,Mickey Valen,0.241074,786
+Sacrilege,Yeah Yeah Yeahs,0.241224,787
+Fight,Nicolas Jaar,0.24123,788
+Waitin for You,Demi Lovato,0.241257,789
+Reckless (With Your Love) - Tensnake Remix,Azari & III,0.24217,790
+Blasé (feat. Future & Rae Sremmurd),Ty Dolla $ign,0.24219,791
+Like You That Way,Canaan Smith,0.24272,792
+Sweet Memories,CID,0.24336,793
+Look At Wrist,Father,0.243483,794
+Dear No One,Tori Kelly,0.243522,795
+Stay (with Alessia Cara),Zedd,0.244495,796
+Work REMIX,A$AP Ferg,0.244731,797
+Getting Over You,Jackie Lee,0.244868,798
+Man Don't Care,Jme,0.244972,799
+San Francisco (Be Sure to Wear Flowers In Your Hair) - Single Version,Scott McKenzie,0.245456,800
+Blood On the Money,Future,0.245696,801
+Lose My Mind,A-Trak,0.245778,802
+Tupelo - Part 1,Pop Staples,0.245872,803
+Lazuli,Beach House,0.246006,804
+They Come in Gold,Shabazz Palaces,0.246026,805
+Ambling Alp,Yeasayer,0.24654,806
+Fineshrine,Purity Ring,0.246645,807
+When Can I See You Again?,Owl City,0.247352,808
+Everywhere,Michelle Branch,0.247379,809
+Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,Pitbull,0.247923,810
+Big Rings,Drake,0.24806,811
+Best I Ever Had,Drake,0.248087,812
+Check,Young Thug,0.248124,813
+Airplanes (feat. Hayley Williams of Paramore),B.o.B,0.24816,814
+Pony,Pretty Sister,0.248213,815
+Get It In,Iamsu!,0.248376,816
+Test Me,Flosstradamus & DJ Sliink,0.248387,817
+I Choose You,Willie Hutch,0.248708,818
+Space Cakes - Original,Tanner Ross,0.249316,819
+Hometown Girl,Josh Turner,0.249444,820
+Lost Boy,Ruth B.,0.24992,821
+Cocaine Model,ZHU,0.249948,822
+I'm Ya Dogg,Snoop Dogg,0.250038,823
+Everytime We Touch,David Guetta - Sébastian Ingrosso - Joachim Garraud - Chris Willis - Steve Angello,0.250278,824
+Livin' 4 Ya,MOTi,0.250318,825
+Wonder,Standing Egg,0.250677,826
+Complicated,Avril Lavigne,0.25155,827
+Cleopatra,The Lumineers,0.251706,828
+Confetti Falling,Big Time Rush,0.251764,829
+Like A G6,Far East Movement,0.252032,830
+Bon Appétit - MUNA Remix,Katy Perry,0.25215,831
+Any Ol' Barstool,Jason Aldean,0.252992,832
+Stardust,Kevin Oh,0.252997,833
+Bulbform,TR/ST,0.253344,834
+Rockin' In The Free World,Neil Young,0.253356,835
+Fuck You Bitch,Wheeler Walker Jr.,0.253638,836
+What I Might Do - Club Mix,Ben Pearce,0.25384,837
+Act Like You Don't,Brooke Eden,0.2541,838
+This I Promise You - Radio Edit,*NSYNC,0.2541,839
+Morning Call - Remix Version,Ibadi,0.254526,840
+Adventurers,Holley Maher,0.254775,841
+Case Of The Ex (Whatcha Gonna Do),Mýa,0.25506,842
+Trap Trap Trap,Rick Ross,0.25515,843
+What I Might Do - Club Mix,Ben Pearce,0.255204,844
+Family Table,Zac Brown Band,0.255502,845
+Borrowed Lives (feat. NVDES),Pierce Fulton,0.255964,846
+Rise,Kim Walker-Smith,0.256128,847
+Yours If You Want It,Rascal Flatts,0.256373,848
+Kids,Iamsu!,0.256683,849
+Slow Peels,Com Truise,0.256736,850
+Work REMIX,A$AP Ferg,0.256872,851
+Don't Let Me Down - Zomboy Remix,The Chainsmokers,0.25761,852
+Two Wrongs,Wyclef Jean,0.257715,853
+I Know There's Gonna Be (Good Times),Jamie xx,0.258552,854
+There's No One Quite Like Grandma - 2003 Remastered Version,St. Winifred's School Choir,0.25872,855
+Jumpin' Jack Flash,Ananda Shankar,0.259408,856
+Crosstown Traffic,Jimi Hendrix,0.259798,857
+La Funky,Destructo feat. Oliver,0.260292,858
+The Giver - Original Mix,Duke Dumont,0.260772,859
+Sometimes,Heems,0.26091,860
+Ain't Always Pretty,Logan Mize,0.26096,861
+Kill V. Maim,Grimes,0.261256,862
+Somethin' I'm Good At,Brett Eldredge,0.261892,863
+So Destroyed (channeling Rage Peace),Prince Rama,0.262042,864
+Ultimate,Lindsay Lohan,0.262236,865
+The Lady In Red,Chris de Burgh,0.26235,866
+Never Be Your Woman (Shy FX Radio Edit) [feat. Emeli Sandé],Wiley,0.262548,867
+Pedestrian at Best,Courtney Barnett,0.26345,868
+Hate Bein' Sober,Chief Keef,0.263541,869
+Unbreakable,Janet Jackson,0.26356,870
+World Restart,Kindness,0.263568,871
+T On the Wing,President T,0.263823,872
+I Know You Know,Big Time Rush,0.263948,873
+First Heartbreak,Tori Kelly,0.264114,874
+Maneuvering,ILoveMakonnen,0.264761,875
+Limitless (feat. Sophie Rose),Sam F,0.264966,876
+"Hold On, We're Going Home",Drake,0.265036,877
+Latch,Disclosure,0.265558,878
+Man Of The Year,ScHoolboy Q,0.265895,879
+Curse of the Spinach,Trout Fishing in America,0.265923,880
+Can I Have This Dance,High School Musical Cast,0.266266,881
+If Today Was Your Last Day,Nickelback,0.26675,882
+Only You,Mac Demarco,0.267168,883
+Will You Love Me Tomorrow,The Shirelles,0.267273,884
+Cinema - Skrillex Remix,Benny Benassi,0.26797,885
+Wild Ones (feat. Sia),Flo Rida,0.268128,886
+Nosedive,Dynamic Duo,0.26928,887
+Tightrope,WALK THE MOON,0.269459,888
+Believe,Cher,0.269689,889
+Real Thing,Zac Brown Band,0.269698,890
+Without Me,Kina Grannis,0.269724,891
+Don't You Worry Child (Radio Edit) [feat. John Martin],Swedish House Mafia,0.269892,892
+Middle Of The Night,The Vamps,0.27023,893
+Dreams,The Cranberries,0.27084,894
+The Wire,HAIM,0.271312,895
+How Did I Get Here,ODESZA,0.27181,896
+Every Time I Hear That Song,Blake Shelton,0.27196,897
+Now You Do,A-1,0.272118,898
+Then He Kissed Me,The Crystals,0.272392,899
+Young,The Chainsmokers,0.272445,900
+Brothers,The War On Drugs,0.27248,901
+Move That Dope,Future,0.272552,902
+Levitate,Paper Diamond,0.273,903
+Yeah Boy,Kelsea Ballerini,0.273296,904
+Coming Home,Leon Bridges,0.273448,905
+God Is a DJ,P!nk,0.273685,906
+NOBO,Tijuana Panthers,0.274222,907
+Crush,David Archuleta,0.274342,908
+Don't Move,Phantogram,0.274536,909
+Follow You,Bring Me The Horizon,0.27486,910
+Subways - In Flagranti Extended Edit,The Avalanches,0.2751,911
+G.O.M.D.,J. Cole,0.27559,912
+I Know There's Gonna Be (Good Times),Jamie xx,0.275796,913
+Hey Baby - Steve Aoki Remix,Dimitri Vegas & Like Mike,0.275808,914
+Make Them Gold,CHVRCHES,0.276012,915
+Joyride,Bassjackers,0.276186,916
+Seek Bromance (Avicii Vocal Edit) - Avicii Vocal Edit,Tim Berg,0.27636,917
+Money Trees,Kendrick Lamar,0.276386,918
+For Her,Chris Lane,0.27642,919
+R.I.C.O. (feat. Drake),Meek Mill,0.276987,920
+No Waves,FIDLAR,0.27792,921
+Be The Change,Britt Nicole,0.277984,922
+Skepta Interlude,Drake,0.27863,923
+Game Ain't Based On Sympathy,Rick Ross,0.27864,924
+dance alot,Various Artists,0.278668,925
+Faster than Boyz,Victorious Cast,0.27871,926
+Bad Boys,Victorious Cast,0.27888,927
+One Night,Lil Yachty,0.279654,928
+Wildfire,Demi Lovato,0.280716,929
+Easy Rider,Action Bronson,0.281474,930
+Grindin’ My Whole Life,HS87,0.281547,931
+Operate,ASTR,0.281736,932
+"U.O.E.N.O. (feat. Rick Ross, Future)",Rocko,0.281896,933
+Pleasure Power (DJ Smash Disco Remix),Afrolicious,0.282007,934
+Shooting Stars,Bag Raiders,0.282384,935
+Runaway,Mr Little Jeans,0.282448,936
+Symptom - Original Mix,Deapmash,0.282935,937
+Hold My Hand,Jess Glynne,0.283122,938
+Heaven,TR/ST,0.283214,939
+I Got U,Duke Dumont,0.283386,940
+Somebody to Love,Jefferson Airplane,0.283413,941
+Powerful,Major Lazer,0.283812,942
+I Could Use a Love Song,Maren Morris,0.28391,943
+Wet Dreamz,J. Cole,0.284256,944
+Levels - Radio Edit,Avicii,0.28435,945
+If I Were a Boy,Beyoncé,0.2844,946
+Huarache Lights,Hot Chip,0.28457,947
+Fireflies,Owl City,0.284862,948
+My Friend,EDX,0.284921,949
+What's Up?,4 Non Blondes,0.285549,950
+Carolina,Harry Styles,0.285792,951
+Good Life,Kiso,0.285963,952
+Think A Little Less,Michael Ray,0.286029,953
+Wu-Tang Forever,Drake,0.286113,954
+VERSACE,Flap Jack,0.286286,955
+Aquafina (feat. GoldLink & Chaz French),Falcons,0.286533,956
+Hulk (Dillon Francis Remix),Clockwork,0.286812,957
+Deicide,Crystal Castles,0.286896,958
+Safari,J Balvin,0.28702,959
+Midnight Sun,Dirtcaps,0.287127,960
+Frontier Psychiatrist,The Avalanches,0.287232,961
+Last Time for Everything,Brad Paisley,0.287272,962
+Fallen in Love (Only With You),Jang Beom June,0.287625,963
+All I Have to Give,Backstreet Boys,0.287955,964
+Mr Skeng,Stormzy,0.287988,965
+Polish Girl,Neon Indian,0.288015,966
+Perfect Picture,Bea Miller,0.288045,967
+Feel Good,Gryffin,0.2883,968
+Twinbow,Slushii,0.2889,969
+Find You Here,Ellie Holcomb,0.289296,970
+All in Vain,Mot,0.28952,971
+Gone,Kina Grannis,0.289629,972
+Spacer Woman - Vocal,Charlie,0.290122,973
+Language,Porter Robinson,0.290378,974
+End Of The Road,Boyz II Men,0.290826,975
+Today,Tom Scott,0.290928,976
+"U.O.E.N.O. Remix (feat. Future, Wiz Khalifa)",Rocko,0.2916,977
+I Know,Sammy Brue,0.291732,978
+Most Girls,Hailee Steinfeld,0.29184,979
+Principles,Benoit & Sergio,0.29237,980
+Headlines,Drake,0.292604,981
+Petals on The Wind (Remake Version),Wable,0.29273,982
+White Lies - The Soundmen Remix,Max Frost,0.292878,983
+Song 2 You,Victorious Cast,0.293136,984
+Sooni (I'm your fanatic girl),SunWoo Jung-A,0.293986,985
+Wait for a Minute,tUnE-yArDs,0.29467,986
+Dill the Noise,Dillon Francis and Kill The Noise,0.29468,987
+I Shall Be Released - Remastered,Nina Simone,0.294813,988
+Black Out,PALGOU,0.294971,989
+Sweater Weather,The Neighbourhood,0.295375,990
+Marc Jacobs,Riff Raff,0.295714,991
+Auditorium,Mos Def,0.295802,992
+(Bonus) Break Her Down,Iamsu!,0.295836,993
+Find You,Wahlstedt,0.295938,994
+Ahora Dice,Chris Jeday,0.29652,995
+Dead Presidents,Rick Ross,0.296576,996
+Trust Me Danny,ILoveMakonnen,0.297686,997
+Every time we touch,Cascada,0.298143,998
+Beloved,Jordan Feliz,0.29848,999
+Higher - Extended,Just Blaze and Baauer,0.299088,1000
+Passionfruit,Drake,0.299088,1001
+What I Might Do,Ben Pearce,0.299166,1002
+"III. Telegraph Ave. (""Oakland"" by Lloyd)",Childish Gambino,0.29928,1003
+Habit - Dack Janiels & Wenzday Remix,Rain Man,0.29939,1004
+Mind Tricks,Bassnectar,0.299404,1005
+Fools Rush In,Teddy Wilson,0.299409,1006
+I Want It That Way,Backstreet Boys,0.299483,1007
+When You're Mad,Ne-Yo,0.299532,1008
+Hold Me Back,Rick Ross,0.299556,1009
+Beautiful Life (feat. Action Bronson & Joey Bada$$),Statik Selektah,0.300672,1010
+Five Seconds,Twin Shadow,0.30186,1011
+Distant Heart,The Seshen,0.30192,1012
+"Bubble Butt [Radio Mix] [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",Major Lazer,0.302022,1013
+"God, Your Mama, And Me",Florida Georgia Line,0.302032,1014
+Shape of My Heart,Backstreet Boys,0.302059,1015
+The Way You Make Me Feel,Michael Jackson,0.302176,1016
+Why I'm Here,Oleander,0.302412,1017
+In Love With a Girl,Gavin DeGraw,0.30291,1018
+Southern Man - Live,"Crosby, Stills, Nash & Young",0.303432,1019
+Strictly 4 My Jeeps,Action Bronson,0.303456,1020
+Forever,Chris Brown,0.303744,1021
+Marijuana,Chrome Sparks,0.303892,1022
+Fake Tales Of San Francisco,Arctic Monkeys,0.303974,1023
+Dope,Tyga,0.304368,1024
+Reason Why We Have To Break Up,Only U,0.305625,1025
+Can’t Live Without,Hollyn,0.305976,1026
+Father Stretch My Hands Pt. 1,Kanye West,0.306306,1027
+Chrome Knight - Feat. Chromeo,Surkin,0.306478,1028
+Pacifier,Young Thug,0.307166,1029
+Everybody Loves The Sunshine,Roy Ayers Ubiquity,0.307198,1030
+Craving You,Thomas Rhett,0.307224,1031
+Man Enough Now,Chris Bandi,0.30732,1032
+Two Brothers,Hanni El Khatib,0.307561,1033
+Sunday Morning,Parmalee,0.307768,1034
+"When Will My Life Begin - From ""Tangled""/Soundtrack Version",Mandy Moore,0.308035,1035
+"Love, Love.",Big Brain,0.308052,1036
+Powers That Be,Rick Ross,0.308115,1037
+"Too Little, Too Late",JoJo,0.30816,1038
+Need U (100%) [feat. A*M*E] [Radio Edit],Duke Dumont,0.3082,1039
+Breakthrough,The Funkees,0.30834,1040
+Tennis Court,Lorde,0.308656,1041
+L.A. Story,Sammy Adams,0.308953,1042
+Absolutely (Story of a Girl) - Radio Mix,Nine Days,0.309283,1043
+The Wall,Matrix & Futurebound,0.309345,1044
+Flatliner (feat. Dierks Bentley),Cole Swindell,0.30969,1045
+Amazing,Big Time Rush,0.309907,1046
+Pale Flesh,Crystal Castles,0.30992,1047
+Into Your Arms,The Lemonheads,0.31008,1048
+Mannish Boy,Muddy Waters,0.310222,1049
+Smell Yo D*ck,Riskay,0.310615,1050
+May We All,Florida Georgia Line,0.310856,1051
+Good Life (with G-Eazy & Kehlani),G-Eazy,0.311315,1052
+In Your Arms,Kina Grannis,0.311808,1053
+Sugar for the Queen,Bells Atlas,0.311952,1054
+Right On Time,Skrillex,0.312069,1055
+Counting Stars,OneRepublic,0.312273,1056
+Rise,Danny Gokey,0.312957,1057
+VAMOS,Oohyo,0.313055,1058
+$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),Lil Dicky,0.31317,1059
+I Wanna Be With You,DJ Khaled,0.3132,1060
+You Gotta Be,Des'ree,0.3135,1061
+Baby Blue,Badfinger,0.313819,1062
+Brand New Life,Colton Dixon,0.313833,1063
+How Not To,Dan + Shay,0.314127,1064
+Don't Threaten Me With A Good Time,Panic! At The Disco,0.314717,1065
+My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,0.315282,1066
+Survivor,Destiny's Child,0.315596,1067
+Let It Go - Scott Melker & Mister Gray Remix,NERVO,0.315666,1068
+Made Me,Snootie Wild,0.315864,1069
+"Girls, Girls, Girls",Mötley Crüe,0.3162,1070
+Touch,Little Mix,0.316247,1071
+Plastic - Extended Mix,New Order,0.316393,1072
+Issues,Julia Michaels,0.3168,1073
+Honeymoon Avenue,Ariana Grande,0.317155,1074
+"Function - feat. YG, IAmSu & Problem",E-40,0.31716,1075
+More Girls Like You,Kip Moore,0.317422,1076
+Softest Place On Earth,Xscape,0.317703,1077
+Big For Your Boots,Stormzy,0.317755,1078
+Save Tonight,Eagle-Eye Cherry,0.317807,1079
+Blue Hawaii,ASTR,0.318176,1080
+Hercules,Young Thug,0.318318,1081
+Summer Dreams,Michael Brun,0.319933,1082
+Accelerate,Jungle,0.31997,1083
+It Ain't Me (with Selena Gomez),Kygo,0.32,1084
+Now Or Never,Halsey,0.3201,1085
+Vanilla Twilight,Owl City,0.320131,1086
+White Girl,Shy Glizzy,0.32108,1087
+Qué Gano Olvidándote - Versión Urbana,Reik,0.32144,1088
+Molly Ringwald,Danny Brown,0.321929,1089
+By Design,Kid Cudi,0.322056,1090
+It Ain’t Me (with Selena Gomez),Kygo,0.322056,1091
+Ciao Adios,Anne-Marie,0.322476,1092
+Archangel,Burial,0.322608,1093
+Digital Animal,Honey Claws,0.322696,1094
+Mercy,Kanye West,0.322806,1095
+Worldwide,Big Time Rush,0.322848,1096
+Catch Me (feat. Naaz),Flux Pavilion,0.32312,1097
+Closer (feat. Sarah Hyland),Boyce Avenue,0.323404,1098
+Starlight - Radio Mix,SOVI,0.32376,1099
+Swerve,ILoveMakonnen,0.323988,1100
+Disparate Youth,Santigold,0.324096,1101
+Love Song,Sara Bareilles,0.324148,1102
+Water Runs Dry,Boyz II Men,0.324258,1103
+Human,Rag'n'Bone Man,0.324478,1104
+Blue Tacoma,Russell Dickerson,0.324722,1105
+Umbrella,Rihanna,0.324819,1106
+Taylor Gang - Bonus Track,Wiz Khalifa,0.325404,1107
+Flashwind - Radio Edit,Ben Remember,0.325704,1108
+Immortals,Fall Out Boy,0.326116,1109
+For Your Love - Club Edit,The Partysquad,0.326414,1110
+Show You Love,Kato,0.326451,1111
+Obsession (feat. Jon Bellion),Vice,0.326781,1112
+U Mad,Vic Mensa,0.326878,1113
+"Dance, Dance",Fall Out Boy,0.327096,1114
+Echoes,Washed Out,0.327484,1115
+No Role Modelz,J. Cole,0.327816,1116
+Unchained (The Payback / Untouchable),James Brown,0.328248,1117
+"The Buzz (feat. Big K.R.I.T., Mataya & Young Tapz) - Bonus Track",Hermitude,0.32832,1118
+Outlines,AlunaGeorge,0.329004,1119
+Music Is the Answer - Original Extended 12-Inch Mix,Celeda,0.329241,1120
+Hunter,Galantis,0.329832,1121
+I Want It That Way,Backstreet Boys,0.331938,1122
+Candy Rain,Soul For Real,0.33231,1123
+Awake,Tycho,0.332856,1124
+Inside Out,Eve 6,0.33327,1125
+Borrowed Time,Parquet Courts,0.333732,1126
+Break Up Every Night,The Chainsmokers,0.334464,1127
+All Gold Everything,Trinidad James,0.3348,1128
+Forever,Majid Jordan,0.335085,1129
+Jelly Beans,The Hipwaders,0.335154,1130
+Fast Car (feat. Kina Grannis),Kina Grannis,0.33528,1131
+I Dare You,Bea Miller,0.33572,1132
+Fam,Saskilla,0.336066,1133
+Tupelo (Pt. 1) - Single Version,Albert King,0.336452,1134
+Different Colors,WALK THE MOON,0.33648,1135
+Oblivion,Grimes,0.336651,1136
+Cold,Maroon 5,0.3374,1137
+Symphony,Clean Bandit,0.33746,1138
+Force of Nature,Bea Miller,0.337554,1139
+Caffeinated Consciousness,TV On The Radio,0.3378,1140
+Borderline,Classixx,0.33798,1141
+Best Friend,Jason Chen,0.338247,1142
+"A Day In The Life - feat. RZA, The Mars Volta & AG + Good Hygiene feat. Tim Meadows Amended CD Version",Handsome Boy Modeling School,0.339066,1143
+Mosquito Burrito,Roger Day,0.339066,1144
+Confess To Me,Disclosure,0.339747,1145
+Love In Motion - feat. Mayer Hawthorne,Sebastian,0.339768,1146
+Don't Stop Me Now - Remastered 2011,Queen,0.339872,1147
+Save You,Wahlstedt,0.340156,1148
+Let It Happen,Tame Impala,0.340166,1149
+It's Strange (feat. K.Flay),Louis The Child,0.340659,1150
+Hot and Cold (feat. Yun Cheoljong of 10cm),SunWoo Jung-A,0.340929,1151
+Miracles,Insane Clown Posse,0.342016,1152
+Try Everything,Shakira,0.342144,1153
+Our Love,Caribou,0.342672,1154
+Glad You Came,The Wanted,0.34277,1155
+Priceless,for KING & COUNTRY,0.342792,1156
+I'm A Martian,Brian Pumper,0.3429,1157
+No Vacancy,OneRepublic,0.343413,1158
+Losing You,Solange,0.344715,1159
+The Gospel,Ryan Stevenson,0.345024,1160
+Mi Tesoro (feat. Nicky Jam),Zion & Lennox,0.3451,1161
+Jump,Kris Kross,0.345289,1162
+"Sugar, We're Goin Down",Fall Out Boy,0.345308,1163
+Vente Pa' Ca,Ricky Martin,0.345423,1164
+Danger and Dread,Brown Bird,0.345576,1165
+All Day And All Of The Night,The Kinks,0.346028,1166
+Quesadilla,WALK THE MOON,0.346028,1167
+Revival,Third Day,0.346275,1168
+Don't Let Go (Love),En Vogue,0.346698,1169
+First Contact,Twin Moons,0.347011,1170
+Turn Me Up - ViP Mix,MOTi,0.347277,1171
+Check Me Out Like,Blaqstarr,0.347282,1172
+Sure Thing,Miguel,0.347472,1173
+Toothache,Jaykae,0.347655,1174
+Heart Full of Soul,The Yardbirds,0.347776,1175
+Where You Are (Reimagined),Hillsong Young & Free,0.348091,1176
+The Buzz (feat. Mataya & Young Tapz),Hermitude,0.34848,1177
+Danger! High Voltage (Soulchild Radio Mix),Electric Six,0.348867,1178
+Apollo Throwdown (Star Slinger Remix),The Go! Team,0.34932,1179
+Torn,Natalie Imbruglia,0.3496,1180
+R.I.P.,Jeezy,0.3498,1181
+Disco Devil,"Lee ""Scratch"" Perry",0.349928,1182
+Gave Me Something,Jess Glynne,0.350455,1183
+The Sound Of San Francisco - Progressive Album Mix,Global Deejays,0.351201,1184
+Me Rehúso,Danny Ocean,0.351366,1185
+0 To 100 / The Catch Up,Drake,0.351379,1186
+No Way Back,Adonis,0.351416,1187
+For Me,Gyepy,0.351468,1188
+Concrete Angel (Radio Edit) (feat. Christina Novelli),Gareth Emery,0.352098,1189
+My Own Worst Enemy,Lit,0.352222,1190
+The Kids Were Wrong,Memoryhouse,0.352836,1191
+Celeste,Ezra Vine,0.35334,1192
+Star,Gary Clark Jr.,0.353367,1193
+Sleeping Habits,Donguy,0.3537,1194
+DLZ,TV On The Radio,0.354614,1195
+New York City,Christopher Owens,0.35462,1196
+What 2 Do,DEAN,0.35464,1197
+Do It (High School Dropout),Tayyib Ali,0.356308,1198
+Andas En Mi Cabeza,Chino & Nacho,0.35632,1199
+Hey DJ,CNCO,0.3564,1200
+Shut Up and Dance,WALK THE MOON,0.357782,1201
+Swerve... the reeping of all that is worthwhile (Noir not withstanding),Shabazz Palaces,0.358045,1202
+Hush,Magic City Hippies,0.358272,1203
+Besándote,Piso 21,0.35838,1204
+Come Save Me,Jagwar Ma,0.358576,1205
+Under Mi Sensi,Barrington Levy,0.358644,1206
+Froze (feat. Lil Uzi Vert & Nicki Minaj),Meek Mill,0.3591,1207
+Batuque (Jeremy Sole & Atropolis Remix),Dom La Nena,0.35948,1208
+She Hates Me,Puddle Of Mudd,0.359775,1209
+Good Time,Owl City,0.359996,1210
+Strong Enough,Kina Grannis,0.360542,1211
+All I Want,Toad The Wet Sprocket,0.3606,1212
+Focused - feat. Kid Cudi,Wale,0.360885,1213
+Somebody Was Watching,Pops Staples,0.36099,1214
+Versace,Migos,0.36163,1215
+Way to be Loved,TOPS,0.362043,1216
+Dorothy,Polo & Pan,0.362153,1217
+Little People (Black City),Matthew Dear,0.362232,1218
+Rainy Streets,Blue In Green,0.362425,1219
+Close,Ryan Kinder,0.363561,1220
+Two Black X's,Dylan Schneider,0.36387,1221
+XO TOUR Llif3,Lil Uzi Vert,0.363888,1222
+Feel This Moment,Pitbull,0.364093,1223
+Search Party,Small Black,0.364105,1224
+Dirt On My Boots,Jon Pardi,0.36442,1225
+You're Still The One,Shania Twain,0.364762,1226
+I Follow Rivers,Lykke Li,0.364791,1227
+One Who Lost,DJ Dodger Stadium,0.36505,1228
+We Are the People,Empire of the Sun,0.365695,1229
+Something Just Like This - Don Diablo Remix,The Chainsmokers,0.36576,1230
+Le Goudron (Edit),YACHT,0.366016,1231
+Old Ways,Demi Lovato,0.366836,1232
+Indian Food,Dumbo Gets Mad,0.366894,1233
+Mary Jane (Jamie Xx - Girl Remix),Jamie xx,0.36703,1234
+We Dem Boyz,Wiz Khalifa,0.367104,1235
+Rock The House - Radio Edit,Afrojack,0.36777,1236
+Black,Dierks Bentley,0.367965,1237
+Just a Phase,Adam Craig,0.3692,1238
+Neighbors,J. Cole,0.369222,1239
+Lollipop,Lil Wayne,0.369288,1240
+Starving,Hailee Steinfeld,0.369528,1241
+Walk,Kwabs,0.369615,1242
+Swingin' Party,Kindness,0.370064,1243
+Let Me Love You,Mario,0.37009,1244
+All Day,Kanye West,0.370215,1245
+Mornin',Star Slinger,0.370823,1246
+3 Wheel-ups (feat. Wiley & Giggs),Kano,0.371145,1247
+Forgiven/Forgotten,Angel Olsen,0.371296,1248
+Boys Life,Small Black,0.371316,1249
+679 (feat. Remy Boyz),Fetty Wap,0.371418,1250
+Pieces Of Me,Ashlee Simpson,0.3715,1251
+Don't Love You No More (I'm Sorry),Craig David,0.37211,1252
+The Weekend,Brantley Gilbert,0.37259,1253
+Sexy Love,Ne-Yo,0.3732,1254
+Dirt And Grime,Fathers Children,0.373325,1255
+Affection,Crystal Castles,0.373744,1256
+Taifa,Partial Arts,0.373752,1257
+Fire,Majozi,0.374005,1258
+All About Tonight - featuring Cymphonique Miller,How To Rock Cast,0.374127,1259
+Defected In The House Ibiza 2013 Mixtape,Simon Dunmore,0.374514,1260
+Blackout,Pegboard Nerds,0.374748,1261
+The Drop,Bro Safari,0.374816,1262
+Ain't No Love In The Heart Of The City - Single Version,"Bobby ""Blue"" Bland",0.375089,1263
+The Cure,Lady Gaga,0.375144,1264
+Love Broke Thru,tobyMac,0.376092,1265
+Imma Ride,Young Thug,0.376614,1266
+Lost You,Zeds Dead,0.376832,1267
+Rollerskate,Matias Aguayo,0.37755,1268
+Burn It To The Ground,Nickelback,0.37761,1269
+Eleven 11: / 11,Rob Curly,0.378,1270
+Hold On,Wilson Phillips,0.378882,1271
+HUMBLE.,Kendrick Lamar,0.379195,1272
+Hey Leonardo (She Likes Me For Me),Blessid Union Of Souls,0.379652,1273
+The Best Crew,Tep No,0.379797,1274
+Heart Break,Lady Antebellum,0.380312,1275
+Double Bubble Trouble,M.I.A.,0.380432,1276
+Buffalo,Toro y Moi,0.380464,1277
+"Call On Me - EDWYNN X TIKAL, Spirix Remix",Starley,0.380494,1278
+Hood Pass Intact,Dâm-Funk,0.380681,1279
+You’re Not The One,Sky Ferreira,0.380952,1280
+The River,Son Little,0.381006,1281
+Losing Sleep,Chris Young,0.38155,1282
+Home,Marshmello,0.381598,1283
+Heaven And Hell Is On Earth,20th Century Steel Band,0.382158,1284
+Whatever It Takes,Imagine Dragons,0.382264,1285
+Go For Broke (feat. James Arthur),Machine Gun Kelly,0.383024,1286
+And Dat (Ft. Stormzy),Bonkaz,0.383163,1287
+Still Got Time,ZAYN,0.383724,1288
+Avalanche,WALK THE MOON,0.383724,1289
+"Bills, Bills, Bills",Destiny's Child,0.384475,1290
+Gold and a Pager,The Cool Kids,0.384636,1291
+Meet Virginia,Train,0.38475,1292
+History,Olivia Holt,0.385269,1293
+PIZZA,Oohyo,0.385506,1294
+"Bold Soul Sister, Bold Soul Brother - USDEA0400901",The Black On White Affair,0.385708,1295
+Step,Vampire Weekend,0.38688,1296
+Sweetest Girl (Dollar Bill),Wyclef Jean,0.387024,1297
+The Yes Strut,Teams vs. Star Slinger,0.38772,1298
+Rill Rill,Sleigh Bells,0.387849,1299
+Punch Drunk Love,Teams vs. Star Slinger,0.38793,1300
+Shabba,A$AP Ferg,0.388056,1301
+Fame (2007 Remastered),David Bowie,0.388104,1302
+Small Town Boy,Dustin Lynch,0.388206,1303
+Nobodys Fool - Ben Pearce Remix,Real Connoisseur,0.388596,1304
+Cannonball,The Breeders,0.388938,1305
+Chicken Soup,Skrillex,0.389279,1306
+Swishas and Dosha - Main Version - Clean,UGK,0.38994,1307
+Elevate,St. Lucia,0.390061,1308
+TG4M,Zara Larsson,0.390195,1309
+Make You Mine,Aire Atlantica,0.39114,1310
+Reflektor,Arcade Fire,0.39117,1311
+Tangled Up In Me,Skye Sweetnam,0.39117,1312
+Catamaran,Allah-Las,0.39198,1313
+Magic City,Wahlstedt,0.392126,1314
+Anti Social Tendencies,The Parallax Corporation,0.39312,1315
+Finally Moving,Pretty Lights,0.393225,1316
+Started From the Bottom,Drake,0.39342,1317
+When We Stand Together,Nickelback,0.394264,1318
+Tuesday,ILoveMakonnen,0.394352,1319
+Bounce It,Juicy J,0.394572,1320
+Wild Window,Fool's Gold,0.395199,1321
+Now,Mallary Hope,0.395304,1322
+Secret Love,JoJo,0.39576,1323
+Take You On,Peaches,0.397133,1324
+Shabba,A$AP Ferg,0.398002,1325
+"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,0.398255,1326
+Elevate - Q45 Remix,Toni Toni Lee,0.398562,1327
+My Way (feat. Monty),Fetty Wap,0.398684,1328
+I Got a Feeling,Shit Robot,0.399009,1329
+OOOUUU,Young M.A.,0.39936,1330
+8 Feet Tall,Problem,0.3996,1331
+Trumpets,Jason Derulo,0.40005,1332
+Mama,Jonas Blue,0.401139,1333
+Sleep Without You,Brett Young,0.401947,1334
+Boyfriend,Big Time Rush,0.40217,1335
+Percolator (Jamie Jones Vault Mix) - mixed,Cajmere,0.402234,1336
+Dancing In The Rain,Blu,0.403421,1337
+I Want You - Single Version,Marvin Gaye,0.403725,1338
+Girl You Know It's True,Milli Vanilli,0.404004,1339
+1977,Ana Tijoux,0.405019,1340
+Bailame Despacio,Xantos,0.405232,1341
+Bangarang (feat. Sirah),Skrillex,0.405256,1342
+The Devil Is A Lie,Rick Ross,0.406515,1343
+Best Friend,Young Thug,0.406616,1344
+First Time,Kygo,0.407019,1345
+Bath Salts,Travis Hayes,0.407537,1346
+Doom And Gloom - Jeff Bhasker Mix,The Rolling Stones,0.407575,1347
+Omen - Radio Edit,Disclosure,0.40836,1348
+Celebrando,CLUBZ,0.408552,1349
+Slasherr,Rustie,0.409266,1350
+Nimble Girl,Hotel Eden,0.409812,1351
+The Spirit Blossoms All Over the Land,Onra,0.41021,1352
+So Sick,Ne-Yo,0.410313,1353
+Help,Borgore,0.41109,1354
+Zombie,Fela Kuti,0.411136,1355
+Ferus Gallery,Allah-Las,0.41285,1356
+What Ifs,Kane Brown,0.4131,1357
+Just The Girl,The Click Five,0.413975,1358
+Summer Night You and I,Standing Egg,0.414056,1359
+Thinking of You,Lord Echo,0.414279,1360
+Operator (Ring Ring) ft. Dances With White Girls,Chris Lake,0.4147,1361
+Get Free (feat. Amber of Dirty Projectors),Major Lazer,0.415275,1362
+Be My Baby,The Ronettes,0.415954,1363
+Do You Like It? (Feat. Kool A.D),Chaz Van Queen,0.41664,1364
+Work,A$AP Ferg,0.416724,1365
+Sittin' Sidewayz - feat. Big Pokey Explicit,Paul Wall,0.416738,1366
+Pop That,French Montana,0.417004,1367
+Kush,Lil Wayne,0.417806,1368
+Bloom,Grayson Reed,0.418122,1369
+Fanfare,Magic City Hippies,0.418275,1370
+Glad I Met You,D. Gookin,0.41832,1371
+I Don't Like,Chief Keef,0.419978,1372
+Gas Pedal (feat. IamSu),Sage The Gemini,0.420168,1373
+Cut Your Groove,Charlie Worsham,0.420816,1374
+Rockstar,Nickelback,0.421344,1375
+No Fun,The Stooges,0.421648,1376
+Chillax,Farruko,0.42177,1377
+Video,India.Arie,0.421844,1378
+You,Ejeca,0.423094,1379
+Show Me the Meaning of Being Lonely,Backstreet Boys,0.423512,1380
+One Of Us - Original Mix,Iron Galaxy & Sexlife,0.424128,1381
+Be My Baby,Bea Miller,0.424479,1382
+You're Not Good Enough,Blood Orange,0.42476,1383
+From Nowhere,Dan Croll,0.42496,1384
+Biscuits in the Oven,Raffi,0.425056,1385
+Movin' Bass - GTA Remix,Rick Ross,0.42534,1386
+Bless My Soul,Nightmares On Wax,0.425647,1387
+Candyman,Cornershop,0.42579,1388
+La Tromba Risin' (feat. Tasita D'Mour),Chris Lake,0.426347,1389
+11-Jul,Beyoncé,0.426537,1390
+Drive,Incubus,0.426852,1391
+Together Again,Janet Jackson,0.42777,1392
+For Free,DJ Khaled,0.427772,1393
+Muzik Xpress,X-Press 2,0.4278,1394
+Grown Up,Danny Brown,0.428625,1395
+Leaving Babylon,Bad Brains,0.42893,1396
+Nobody Else - Original Mix,Dusky,0.429065,1397
+Old Church Choir,Zach Williams,0.429374,1398
+MMMBop,Hanson,0.429495,1399
+Never Saw The Point,Cults,0.429825,1400
+Lay Up,Future,0.430004,1401
+Something To Believe In,Young the Giant,0.430493,1402
+Ikimiz Bir Fidaniz - Baris K Edit,Umit Aksu Orkestrasi,0.430965,1403
+With You,Chris Brown,0.43099,1404
+Runner,Jon and Roy,0.43129,1405
+I Wanna Know,Joe,0.431375,1406
+With You (feat. Alexis Taylor),Carte Blanche (feat. Alexis Taylor),0.43146,1407
+My Boo,Usher,0.431624,1408
+Hercules Theme 2014,Hercules & Love Affair,0.431821,1409
+Stitches,Shawn Mendes,0.43216,1410
+Why Don't They Let Us Fall in Love,The Ronettes,0.43263,1411
+I Knew I Loved You,Savage Garden,0.433124,1412
+Bitter Rivals,Sleigh Bells,0.4332,1413
+The Gaudy Side of Town,Gayngs,0.43344,1414
+You & Me - Baauer Remix,Disclosure,0.43355,1415
+Bon Appétit,Katy Perry,0.43362,1416
+Lump,The Presidents Of The United States Of America,0.433631,1417
+Return Of The Mack - C & J Street Mix,Mark Morrison,0.434005,1418
+Queen's Speech 4,Lady Leshurr,0.434277,1419
+Valentine,Kina Grannis,0.434448,1420
+Zig Zag,Kwon Jin Ah,0.434716,1421
+Fog On the Tyne,Lindisfarne,0.434805,1422
+Stay,Ne-Yo,0.434868,1423
+Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,0.434896,1424
+Look At Me,Geri Halliwell,0.4352,1425
+Black Mags,The Cool Kids,0.435408,1426
+Can We Go Up?,Paper Diamond,0.43626,1427
+All On Me,Devin Dawson,0.436652,1428
+Coward,Chip,0.436696,1429
+L.A. Boyz,Victorious Cast feat. Victoria Justice and Ariana Grande,0.436744,1430
+Redbone,Childish Gambino,0.436884,1431
+Females Welcomed (feat. Reija Lee),Trinidad James,0.437532,1432
+Saturday Love,Toro y Moi,0.437742,1433
+Anyone Can Fall In Love,Anita Dobson,0.438144,1434
+Water Me (feat. Leon Ware),Theophilus London,0.439663,1435
+MMMBop,Hanson,0.439726,1436
+Obi Agye Me Dofo,Vis à Vis,0.43974,1437
+Michael Jackson,Das Racist,0.440637,1438
+Thiago Silva,Dave,0.440887,1439
+SUBEME LA RADIO,Enrique Iglesias,0.44118,1440
+Cadillac Girl,Only Real,0.44183,1441
+Hazelton Trump,OB OBrien,0.442336,1442
+Mystery Of Love,Mr. Fingers,0.443326,1443
+We Want Some Pussy,Ezale,0.443418,1444
+Can't Seem To Make You Mine,Sky Saxon & The Seeds,0.44376,1445
+Swish Swish,Katy Perry,0.443916,1446
+Truly Madly Deeply,Savage Garden,0.44431,1447
+My Little Secret,Xscape,0.444444,1448
+The Gaudy Side of Town,Gayngs,0.444565,1449
+The Boss,James Brown,0.444616,1450
+"There, There",Radiohead,0.445764,1451
+Jenny,WALK THE MOON,0.446624,1452
+Uma Thurman,Fall Out Boy,0.447314,1453
+Everybody Likes Something Good,Ify Jerry Crusade,0.44764,1454
+I Try,Macy Gray,0.447715,1455
+High School Lover,Cayucas,0.448,1456
+Mr. Jones,Counting Crows,0.448532,1457
+No Scrubs,TLC,0.448772,1458
+Test Me - UZ Remix,Flosstradamus & DJ Sliink,0.448875,1459
+You Get What You Give,New Radicals,0.449286,1460
+Aquaman,WALK THE MOON,0.44982,1461
+Moving to the Left,Woods,0.449856,1462
+Star Of The Show,Thomas Rhett,0.44988,1463
+Two Princes,Spin Doctors,0.45069,1464
+No Promises (feat. Demi Lovato),Cheat Codes,0.451269,1465
+Dopeman,Vince Staples,0.451646,1466
+Body Like A Back Road,Sam Hunt,0.451758,1467
+Distant Land,Madlib,0.451806,1468
+Agorinha,Sango,0.454545,1469
+Bang That,Disclosure,0.454682,1470
+Osaka Loop Line,Discovery,0.454784,1471
+Half Full Glass of Wine,Tame Impala,0.455561,1472
+Au Seve,Julio Bashmore,0.455661,1473
+Fascism,Sam Sparro,0.455728,1474
+Platoon,Jungle,0.45588,1475
+Bang! Bang!,Joe Cuba,0.455906,1476
+Can I Touch You...There?,Michael Bolton,0.45603,1477
+I Gotta Feeling,The Black Eyed Peas,0.456456,1478
+Had Ten Dollaz,Cherry Glazerr,0.456496,1479
+Whatcha Gonna Do,Koopsta Knicca,0.45689,1480
+Demon,Shamir,0.457024,1481
+Bailame,Nacho,0.45752,1482
+Do You Love Me,The Contours,0.457899,1483
+GDFR (feat. Sage The Gemini & Lookas),Flo Rida,0.458586,1484
+Every Freakin' - DJ Ayres remix,DJ Eleven,0.458964,1485
+Gucci On The Rise,Gucci Mane,0.459472,1486
+Alright,Kendrick Lamar,0.459571,1487
+Computer Love,Zapp,0.459683,1488
+Timber,Pitbull,0.460152,1489
+Rock Creek Park,The Blackbyrds,0.462264,1490
+Anything New,Bibio,0.462861,1491
+Nights With You,MØ,0.463904,1492
+Louie Louie,The Sonics,0.464223,1493
+Bye Bye Bye,*NSYNC,0.465365,1494
+I Took A Pill In Ibiza - Seeb Remix,Mike Posner,0.465786,1495
+World In Motion,New Order,0.466119,1496
+Run the Race,Holly Starr,0.466284,1497
+See Blind Through,Canyons,0.466425,1498
+Ando buscando (feat. Piso 21),Carlos Baute,0.467072,1499
+Oldie,Odd Future,0.467323,1500
+Voodoo Ray - Danny Tenaglia Remix,A Guy Called Gerald,0.467742,1501
+Stomp - Dirty,5kinAndBone5,0.468032,1502
+Bizness,tUnE-yArDs,0.46816,1503
+Players Anthem,UGK,0.468384,1504
+Fail to Cry,Yacht Club,0.4698,1505
+Semi-Charmed Life,Third Eye Blind,0.4704,1506
+He's So Fine - 2000 Digital Remaster,The Chiffons,0.470678,1507
+Te Quiero Pa´Mi,Don Omar,0.471059,1508
+Perfect Harmony,Rags Cast,0.47144,1509
+Last Kiss,Pearl Jam,0.471476,1510
+Shutdown,Skepta,0.47265,1511
+The Monster,Eminem,0.473172,1512
+Got No Money,FIDLAR,0.473324,1513
+Have Love Will Travel,The Sonics,0.473616,1514
+I Would Die 4 U,Prince,0.473688,1515
+Take Over Control - Radio Edit,Afrojack,0.475571,1516
+Free Stress Test,Professor Murder,0.475881,1517
+Don't Stop The Music,Rihanna,0.475974,1518
+E.T. - feat. Kanye West,Katy Perry,0.47678,1519
+Dum Dum,Baauer,0.476922,1520
+The One You Say Goodnight To,Kina Grannis,0.477456,1521
+Love Buzz,Shocking Blue,0.47817,1522
+Night And Day,Hot Chip,0.479028,1523
+Good,Better Than Ezra,0.4797,1524
+Suede (feat. Anderson Paak & Knxwledge),NxWorries,0.480292,1525
+Enjoy The Silence - Remastered Version Original,Depeche Mode,0.480438,1526
+Alguien Robo,Sebastian Yatra,0.480525,1527
+Grandad,Clive Dunn,0.4807,1528
+Freak Connection - Edit,Cerrone,0.481581,1529
+HLM 3,Lunatic,0.481713,1530
+Hasta el Amanecer,Nicky Jam,0.481728,1531
+Pu$$y Magnet (feat. Keayshawn),Roach Gigz,0.482798,1532
+Don't Cha,The Pussycat Dolls,0.483,1533
+Touch Me (I Want Your Body),Samantha Fox,0.483392,1534
+Donme Dolap - Baris K Edit,Modern Folk Üçlüsü,0.483426,1535
+Roots,Zac Brown Band,0.483516,1536
+Dark Matter,Feathers,0.484288,1537
+Your Love,Mick Jenkins,0.484367,1538
+I Win,Lethal Bizzle,0.485056,1539
+Talk,10cm,0.4853,1540
+Waist Time,Diplo,0.485485,1541
+I'm the One,DJ Khaled,0.485789,1542
+Holding On - Jerome LOL Remix,Classixx,0.486304,1543
+Monster Mash,"Bobby ""Boris"" Pickett",0.487104,1544
+Magnets,Disclosure,0.488576,1545
+"Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",Anuel Aa,0.489474,1546
+Hood Pass Intact feat. MC Eiht,Dâm-Funk,0.49042,1547
+Do You Want a Man - Heaven & Hell Remix,William Onyeabor,0.490842,1548
+Roll To Me,Del Amitri,0.491288,1549
+200 Press,James Blake,0.49141,1550
+Dip,Danny Brown,0.493407,1551
+Mercy,The Third Degree,0.494032,1552
+Move On Me,Tom & Jame,0.494088,1553
+Just a Friend 2002 - Radio Edit,Mario,0.494422,1554
+Willing & Able,Disclosure,0.495075,1555
+Flashing Lights,DJ Ayres,0.4964,1556
+Dreams Never End - 2015 Remastered Version,New Order,0.49692,1557
+Here I Come (Broader Than Broadway),Barrington Levy,0.496976,1558
+Tú Sí Sabes Quererme,Natalia Lafourcade,0.497556,1559
+Bam Bam,Sister Nancy,0.49818,1560
+U got 2 believe,Paulo Mendonca,0.49896,1561
+There's Nothing Holdin' Me Back - NOTD Remix,Shawn Mendes,0.498986,1562
+Dead Wrong,Hanni El Khatib,0.499768,1563
+We Out Here,Ezale,0.499776,1564
+No Sleep Till Brooklyn,Beastie Boys,0.500472,1565
+No More Sad Songs (feat. Machine Gun Kelly),Little Mix,0.500554,1566
+I'm So Into You,SWV,0.501236,1567
+Traicionera,Sebastian Yatra,0.501296,1568
+Overwhelming,Jon Bellion,0.50142,1569
+Issues - Alan Walker Remix,Julia Michaels,0.50173,1570
+Wonky Bassline Disco Banger,Red Rack'Em,0.50204,1571
+Last Friday Night (T.G.I.F.),Katy Perry,0.502326,1572
+Swords,M.I.A.,0.502334,1573
+Take Me As I Am,Wyclef Jean,0.50279,1574
+My House,Flo Rida,0.502928,1575
+Big Time Rush,Big Time Rush,0.50316,1576
+Hotline Bling,Drake,0.505344,1577
+Slumlord,Neon Indian,0.50715,1578
+Rollin,Calvin Harris,0.507442,1579
+Tighten Up - Pt. 1,Archie Bell & The Drells,0.507636,1580
+Pharaohs (feat. Roses Gabor),SBTRKT,0.508005,1581
+Bring It All to Me,Blaque,0.508045,1582
+Starships,Nicki Minaj,0.50864,1583
+Slyd,!!!,0.508794,1584
+Let's Dance (Single Version) [2002 Remastered Version],David Bowie,0.508812,1585
+Razor,ASTR,0.50886,1586
+The Lion - Original Mix,The Partysquad,0.5094,1587
+El Amante,Nicky Jam,0.509518,1588
+Northern Lights,Kate Boy,0.509754,1589
+"Sweet Power, Your Embrace",James Mason,0.509838,1590
+The Call,Backstreet Boys,0.510204,1591
+Trill Hoe,Western Tink,0.51072,1592
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,0.510986,1593
+Dangerous,Clazziquai Project,0.511216,1594
+Be Brave,The Strange Boys,0.51146,1595
+Give Me The Sunshine,Leo's Sunshipp,0.511841,1596
+Best Thing About,Lex Luca,0.512556,1597
+Despacito - Remix,Luis Fonsi,0.51282,1598
+Little Green Apple,Tumble Tots,0.512845,1599
+I Need A Girl (Part One) (feat. Usher & Loon),Diddy,0.51414,1600
+WTF (Where They From) [feat. Pharrell Williams],Missy Elliott,0.514464,1601
+Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,0.514596,1602
+Stripper,Fancy Fux,0.514675,1603
+Where the Party At,Jagged Edge,0.514944,1604
+Time of Our Lives,Pitbull,0.51552,1605
+C'mon Let's Make A Pizza,We Kids Rock,0.51799,1606
+Vowels = space and time,Grimes,0.518039,1607
+I Want'a Do Something Freaky To You,Leon Haywood,0.518075,1608
+The Fighter,Keith Urban,0.518241,1609
+Heaven,Ebo Taylor,0.51832,1610
+Paris Groove (Original Mix),Boston Bun,0.51908,1611
+Greetings,Joni Haastrup,0.519788,1612
+Bloom - Lane 8 Remix,ODESZA,0.520816,1613
+The Chase,Future Islands,0.5215,1614
+Cold,Stormzy,0.521916,1615
+Can't Shake This Feeling,Grum,0.522,1616
+Careless,Dusky,0.52206,1617
+Vacaciones,Wisin,0.524188,1618
+Chicken Half,Sugarman Three,0.524964,1619
+Say My Name,Destiny's Child,0.526194,1620
+Sé Que Te Duele,Alejandro Fernandez,0.526504,1621
+Sunshine Of Your Love,Cream,0.526593,1622
+"Jumpin', Jumpin'",Destiny's Child,0.526593,1623
+Moving On and Getting Over,John Mayer,0.527456,1624
+The Perfect Kiss,New Order,0.527681,1625
+I'm In Love,Fool's Gold,0.528007,1626
+Mysterious Girl,Peter Andre,0.528277,1627
+International Players Anthem,Swishahouse,0.52848,1628
+You Know You Like It - Bondax Remix,AlunaGeorge,0.528528,1629
+I Want You,Chris Lake,0.52855,1630
+Supernature - Edit,Cerrone,0.530107,1631
+Night Time Melody,Rude Paper,0.531456,1632
+Si Tú La Ves,Nicky Jam,0.53156,1633
+Something About the Sunshine,Anna Margaret,0.531824,1634
+86 Carrot Gold,Teams vs. Star Slinger,0.531927,1635
+Si Me Dices Que Si (feat. Nicky Jam),Cosculluela,0.53198,1636
+Give It Away,Red Hot Chili Peppers,0.53274,1637
+U Got It Bad,Usher,0.533664,1638
+Stay Fly - Explicit Album Version,Three 6 Mafia,0.534264,1639
+Sugah Daddy,D'Angelo,0.53448,1640
+Murderer,Barrington Levy,0.535435,1641
+Lean & Bounce,Duke Dumont,0.53594,1642
+Look At Where We Are,Hot Chip,0.536184,1643
+No Eyes (Radio Edit),Claptone,0.53661,1644
+Don't Deny Your Heart,Hot Chip,0.536861,1645
+Tearin' up My Heart - Radio Edit,*NSYNC,0.537824,1646
+Young & Gettin' It - feat. Kirko Bangz,Meek Mill,0.537888,1647
+Junk of the Heart (Happy),The Kooks,0.539372,1648
+No Security,Skepta,0.539452,1649
+When A Fire Starts To Burn - Midland Remix,Disclosure,0.54008,1650
+Stoner,Young Thug,0.541368,1651
+Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,0.542184,1652
+Lost Without U,Robin Thicke,0.5427,1653
+TiK ToK,Kesha,0.542845,1654
+Close to Me,Teams vs. Star Slinger,0.543742,1655
+You Know I'm No Good - Ghostface UK Version,Amy Winehouse,0.543918,1656
+Don't Let It Get to Your Head,Black Harmony,0.543918,1657
+Unforgettable,French Montana,0.5445,1658
+Stand Up - Tiger & Woods Remix,Pitchben,0.54536,1659
+Reggaetón Lento (Bailemos),CNCO,0.545637,1660
+Am I Wrong,Nico & Vinz,0.545925,1661
+Hannah Montana,Migos,0.546006,1662
+Pussy,Brazilian Girls,0.548628,1663
+Popular Song,MIKA,0.548688,1664
+Ole,The Funkees,0.548784,1665
+Put Your Arms Around Me,Natasha Bedingfield,0.548792,1666
+L'Amour Parfait,Yelle,0.549608,1667
+Who Be Lovin Me (feat. ILOVEMAKONNEN),Santigold,0.549815,1668
+Wop (Official Version),J. Dash,0.550088,1669
+Fantasy,Mariah Carey,0.55022,1670
+San Francisco,Foxygen,0.550732,1671
+You Are the Right One,Sports,0.5511,1672
+Collard Greens,ScHoolboy Q,0.551256,1673
+Walk In The Park,Beach House,0.551448,1674
+Two Of Hearts,Stacey Q,0.552096,1675
+Tearin' up My Heart - Radio Edit,*NSYNC,0.55211,1676
+Classic,MKTO,0.55224,1677
+Saltkin,Purity Ring,0.552825,1678
+Who Is He And What Is He To You,Creative Source,0.552911,1679
+Cool,Gwen Stefani,0.55302,1680
+Felices los 4,Maluma,0.55417,1681
+Origins,Tennis,0.554302,1682
+No More (Baby I'ma Do Right),3LW,0.554449,1683
+"Gone, Gone",Juicy J,0.554704,1684
+Escapade,Janet Jackson,0.555015,1685
+Uncle ACE,Blood Orange,0.555016,1686
+Reckless (With Your Love),Azari & III,0.55517,1687
+Bassline Riddim,Vato Gonzalez,0.556569,1688
+All My Friends,LCD Soundsystem,0.556594,1689
+Jack,Breach,0.556898,1690
+Jack,Breach,0.556898,1691
+Escápate Conmigo,Wisin,0.557262,1692
+Ride The Rhythm,On The House featuring Marshall Jefferson,0.557388,1693
+Chunky - Club Mix,Format:B,0.55752,1694
+Bouncin,Chief Keef,0.558279,1695
+I2I,Tevin Campbell,0.558516,1696
+That's What I Like - Alan Walker Remix,Bruno Mars,0.559828,1697
+Zion Gate Dub,King Tubby,0.560096,1698
+Despacito (Featuring Daddy Yankee),Luis Fonsi,0.56034,1699
+C O O L - Radio Edit,Le Youth,0.560805,1700
+Sunshine Of Your Love,Cream,0.561564,1701
+Smoke On The Water,Deep Purple,0.561848,1702
+Me Llamas (feat. Maluma) - Remix,Piso 21,0.5624,1703
+Ultimate Painting,Ultimate Painting,0.562557,1704
+Long Heels Red Bottoms,Trina,0.562856,1705
+Humble,Wahlstedt,0.563103,1706
+He Wasn't Man Enough,Toni Braxton,0.563118,1707
+Good Life - Original 12'' Mix,Inner City,0.563823,1708
+Topless,Orlando Julius,0.56425,1709
+212,Azealia Banks,0.564564,1710
+My Main,Mykfresh,0.564831,1711
+Tuesday (feat. Danelle Sandoval),Burak Yeter,0.565993,1712
+Callie (feat. Vic Mensa),Donnie Trumpet,0.566016,1713
+Can You Get To That,Funkadelic,0.566358,1714
+I Blame Myself,Sky Ferreira,0.56649,1715
+Do It Roger,Zapp,0.567147,1716
+Ain't got nobody,Sísý Ey,0.567666,1717
+Genie In A Bottle (Album Version),Christina Aguilera,0.567942,1718
+Living,2 Chainz,0.569416,1719
+GodLovesUgly,Atmosphere,0.569568,1720
+Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer,0.569961,1721
+Changes,Crazy P,0.570352,1722
+Rhythm of Devotion,Sisyphus,0.570448,1723
+Louie Louie,Toots & The Maytals,0.570768,1724
+Holding On,Disclosure,0.570988,1725
+Water No Get Enemy - Edit,Fela Kuti,0.57147,1726
+Don’t Drop That Thun Thun,Finatticz,0.571634,1727
+Never Never Gonna Give Ya Up,Barry White,0.57218,1728
+Johnny Was,Bob Marley & The Wailers,0.572945,1729
+"Wildside - From ""Adventures in Babysitting""",Sofia Carson,0.573013,1730
+Blueberry (Pills & Cocaine) (feat. Danny Brown),Darq E Freaker,0.573242,1731
+Despacito - Remix,Luis Fonsi,0.573244,1732
+Probably Nu It,Tree,0.573306,1733
+Trap Shit V7,UZ,0.573333,1734
+Don't Miss,The Alexanders,0.573965,1735
+Beautiful Girls - Radio Disney Version,Sean Kingston,0.574368,1736
+House of Jealous Lovers,The Rapture,0.57519,1737
+Tu Foto,Ozuna,0.575505,1738
+Borro Cassette,Maluma,0.57597,1739
+Raindrops,The Silvertones,0.5766,1740
+About to Die,Dirty Projectors,0.577238,1741
+Jumpman,Drake,0.577481,1742
+Let It Happen - Soulwax Remix,Tame Impala,0.577898,1743
+Something About You,Hayden James,0.57798,1744
+Three Cool Cats,The Coasters,0.57812,1745
+Fearless,Jasmine Murray,0.578608,1746
+Always Chew Your Food,Trout Fishing in America,0.579044,1747
+Never Gonna Give You Up,Barry White,0.579616,1748
+Luke Cage,AJ Tracey,0.57962,1749
+On the Lips,Frankie Cosmos,0.579698,1750
+Them Changes (feat. Flying Lotus & Kamasi Washington),Thundercat,0.579803,1751
+F**kin' Problems,A$AP Rocky,0.580492,1752
+Dadje Von O Von Non,Gnonnas Pédro,0.580548,1753
+She's Kinda Hot,5 Seconds of Summer,0.581238,1754
+Can't You See,Total,0.58201,1755
+"I'll Be Good - 12"" Mix",Rene & Angela,0.582978,1756
+Keep You,Wild Belle,0.58377,1757
+Money Money,Horace Andy,0.58392,1758
+Smooth,Santana,0.58464,1759
+Jack,Breach,0.585276,1760
+It's Gonna Be Me,*NSYNC,0.586182,1761
+Agadoo - original,Black Lace,0.586482,1762
+Attention,Charlie Puth,0.586692,1763
+Whippin (feat. Felix Snow),Kiiara,0.58812,1764
+I Love It (feat. Charli XCX) - Original Version,Icona Pop,0.588336,1765
+"Icy, Creamy Ice Cream",Barney,0.589743,1766
+Simple Love Song,Anuhea,0.590572,1767
+Akue We Non Houme - Jerk Fon,T. P. Orchestre Poly-Rythmo,0.590646,1768
+How Do You See Me Now,Zdar,0.590914,1769
+Shaddap You Face,Joe Dolce,0.591312,1770
+Sneakers,Humming Urban Stereo,0.591525,1771
+The Way We Are,Kate Boy,0.591672,1772
+I Will Never Let You Down,Rita Ora,0.592611,1773
+The Way You’d Love Her,Mac Demarco,0.593047,1774
+Otra Vez (feat. J Balvin),Zion & Lennox,0.594048,1775
+Wifey,Next,0.594393,1776
+Goody Two Shoes,Duck Sauce,0.594432,1777
+Young N*****,Gucci Mane,0.595122,1778
+Long Cool Woman (In A Black Dress) - 1999 Remastered Version,The Hollies,0.595759,1779
+Smoke,Ohio Players,0.596037,1780
+Hips Don't Lie,Shakira,0.596726,1781
+White Noise,Disclosure,0.596965,1782
+Dile Que Tu Me Quieres,Ozuna,0.596988,1783
+Endless Rhythm,Baio,0.597493,1784
+When A Fire Starts To Burn,Disclosure,0.597996,1785
+Al Filo de Tu Amor,Carlos Vives,0.59808,1786
+Deja vu,Prince Royce,0.598776,1787
+Big Fun - Original 12'' Mix,Inner City,0.602208,1788
+Trap Queen,Fetty Wap,0.602768,1789
+Lumbra,Cali Y El Dandee,0.603092,1790
+The One,ZHU,0.603432,1791
+Wait & See,Holy Ghost!,0.60401,1792
+Remember The Name (feat. Styles Of Beyond),Fort Minor,0.604752,1793
+You Don't Love Me (No No No),Dawn Penn,0.606165,1794
+La Rompe Corazones,Daddy Yankee,0.60691,1795
+Independent - House Remix,Hoodfellas,0.607613,1796
+Champagne Coast,Blood Orange,0.607616,1797
+My Love Is Like...Wo - Main Mix/Album Version,Mýa,0.608923,1798
+"Bizarre Love Triangle - Shep Pettibone 12"" Remix",New Order,0.60896,1799
+Too Close,Next,0.60945,1800
+No Such Thing as a Broken Heart,Old Dominion,0.609805,1801
+Leave House,Caribou,0.609872,1802
+Icarus - Black Caviar Remix,R3hab,0.611268,1803
+Das Lied Der Schluempfe,Vader Abraham,0.611282,1804
+Had A Dream,EMP DASME,0.6118,1805
+Parallel Lines,Junior Boys,0.612912,1806
+Dynamite,Taio Cruz,0.61425,1807
+Ya Me Enteré (feat. Nicky Jam) - Urban Version,Reik,0.6144,1808
+Cool It Now,New Edition,0.616,1809
+No Heart,21 Savage,0.61608,1810
+DUELE EL CORAZON,Enrique Iglesias,0.616124,1811
+Giant,The The,0.616149,1812
+I'll Be Good,Rene & Angela,0.616776,1813
+Flashlight,Parliament,0.617176,1814
+Poppin' My Collar,Three 6 Mafia,0.61731,1815
+Good Mistake,Mr Little Jeans,0.617424,1816
+Dutchie Courage,Star Slinger,0.618222,1817
+As Long as You Love Me,Backstreet Boys,0.6184,1818
+Number One,Tuxedo,0.61936,1819
+This Ready Flesh,TR/ST,0.620895,1820
+Der Kommissar,After The Fire,0.621824,1821
+Poppin' My Collar - feat. Project Pat - Explicit,Three 6 Mafia,0.621837,1822
+North North,Project Pat,0.62292,1823
+Sick Beat,Kero Kero Bonito,0.623656,1824
+Ay Mi Dios,IAmChino,0.62402,1825
+Last Chance to Dance,Ekkah,0.624753,1826
+You Look Good,Lady Antebellum,0.625391,1827
+"Glyde 2nyte (feat. Leon Sylvers III, Leon Sylvers IV)",Dâm-Funk,0.626841,1828
+Blister in the Sun - 2002 Remastered Version,Violent Femmes,0.627395,1829
+Hot Blur,How Sad,0.629043,1830
+Say Please,Teams vs. Star Slinger,0.629391,1831
+See Me Now,Cassius,0.629811,1832
+Strandbar (disko),Todd Terje,0.63018,1833
+Can I Kick It?,A Tribe Called Quest,0.630468,1834
+Annie,Neon Indian,0.63048,1835
+Maps,Maroon 5,0.631015,1836
+Mary-Mary (M&M Unreleased Mix) [feat. Dajae],Grand High Priest,0.631845,1837
+Cane Shuga,Glass Animals,0.63271,1838
+The Happy Song,Jamie Grace,0.633299,1839
+Slow Hands,Niall Horan,0.634524,1840
+It's My Party,Lesley Gore,0.63519,1841
+Ohye Atar Gyan,Ebo Taylor,0.635688,1842
+How Do You Do?,Hot Chip,0.63603,1843
+Annie,Neon Indian,0.636894,1844
+Something About You - Extended Mix,Hayden James,0.63813,1845
+White Horse,Laid Back,0.638232,1846
+Somebody,Natalie La Rose,0.638236,1847
+Make It,Patrick Di Stefano,0.63921,1848
+Hung Over,The Martini's,0.63936,1849
+Gucci Gucci,Kreayshawn,0.640458,1850
+Hard Times,Paramore,0.641485,1851
+They Don't Know - Original Mix,Disciples,0.643179,1852
+I'm Walkin' - 2002 Digital Remaster,Fats Domino,0.644475,1853
+When The Night Falls - feat. Solange Knowles,Chromeo,0.644764,1854
+Sexy Bitch (feat. Akon) - Featuring Akon;explicit,David Guetta,0.644773,1855
+Ain't Nobody,Chaka Khan,0.645522,1856
+Cheeky Song (Touch My Bum),The Cheeky Girls,0.645721,1857
+Happy People,Little Big Town,0.648388,1858
+My eyes,10cm,0.650268,1859
+Hercules Theme,Hercules & Love Affair,0.65121,1860
+Fashion Killa,A$AP Rocky,0.651874,1861
+I Want You Back - Radio Edit,*NSYNC,0.65221,1862
+Oh Devil,Electric Guest,0.652688,1863
+Type of Way,Rich Homie Quan,0.65365,1864
+I'm Different,2 Chainz,0.653995,1865
+Vowel Play - Original,Them Jeans,0.654417,1866
+Poker Face,Lady Gaga,0.654419,1867
+Yesterday,Atmosphere,0.654579,1868
+Safe,Bay Ledges,0.65504,1869
+Sunday,Earl Sweatshirt,0.65514,1870
+Kissing Strangers,DNCE,0.65572,1871
+Right Place Wrong Time,Dr. John,0.656448,1872
+Sah,Al Massrieen,0.656766,1873
+All Of Me,Tanlines,0.657046,1874
+"Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,0.658112,1875
+Somebody's Watching Me,Rockwell,0.658896,1876
+The Payback,James Brown,0.659787,1877
+Stock Exchange,Miss Kittin,0.659945,1878
+Red Nose,Sage The Gemini,0.660292,1879
+Spooky,Dusty Springfield,0.660461,1880
+Me Enamoré,Shakira,0.660519,1881
+Face It,Master C & J,0.66177,1882
+Jacket & Tie,Toyan,0.662595,1883
+Bang A Gong [Get It On] (Remastered Single/LP Version),T. Rex,0.662661,1884
+Fantastic Man,William Onyeabor,0.6629,1885
+Ecoute ma mélodie - Bossa Afro,T. P. Orchestre Poly-Rythmo,0.66336,1886
+Wearing My Rolex - Radio Edit,Wiley,0.664008,1887
+One Nation Under a Groove,Funkadelic,0.664338,1888
+The Magnificent Seven - Remastered,The Clash,0.665567,1889
+Odofo Nyi Akyiri Biara,Ebo Taylor,0.66588,1890
+Hideout,Parcels,0.6664,1891
+Take Me There - Remix,Blackstreet,0.667603,1892
+Truths & Rights,Johnny Osbourne,0.66913,1893
+"To Roz Bikini (Itsy, Bitsy, Teenie, Weenie)",Polina,0.669138,1894
+Someone To Call My Lover,Janet Jackson,0.669222,1895
+Plottin,J HUS,0.66968,1896
+Remember the Time,Michael Jackson,0.671448,1897
+...Baby One More Time,Britney Spears,0.671459,1898
+Wannabe - Radio Edit,Spice Girls,0.672768,1899
+High Without Your Love,Loote,0.673659,1900
+Let's Lovedance Tonight - Danny Krivit Re-edit - Original Disco Version,Gary's Gang,0.675816,1901
+Lifer,MercyMe,0.67584,1902
+Every 1's A Winner - Single Version,Hot Chocolate,0.67611,1903
+"Independent Women, Pt. I",Destiny's Child,0.68036,1904
+"Whenever, Wherever",Shakira,0.681187,1905
+Pick Up The Pieces,Average White Band,0.681216,1906
+Lets Start the Dance,Bohannon,0.681904,1907
+Okay,Holy Ghost!,0.682329,1908
+Get Lucky - Radio Edit,Daft Punk,0.68681,1909
+Outlaw,War,0.68796,1910
+Where Is The Love?,The Black Eyed Peas,0.68971,1911
+Because We Want To,Billie Piper,0.69093,1912
+6 In The Morning,Wiley,0.691012,1913
+Look at You,George McCrae,0.692776,1914
+Someday - Remastered,Sugar Ray,0.693962,1915
+Pretty Fly (For a White Guy),The Offspring,0.69408,1916
+Get Lucky,Daft Punk,0.6966,1917
+Get Lucky,Daft Punk,0.6966,1918
+It's You,Duck Sauce,0.697104,1919
+Pieces,Tanlines,0.69795,1920
+Cha Cha Slide,Mr. C,0.698572,1921
+Estrelar,Marcos Valle,0.700563,1922
+Bop Gun (One Nation) - Radio Edit,Ice Cube,0.70274,1923
+Ice Ice Baby,Vanilla Ice,0.702947,1924
+Second Summer,YACHT,0.70304,1925
+Evil Friends (feat. Danny Brown) - Jake One Remix,Portugal. The Man,0.703391,1926
+Bad Liar,Selena Gomez,0.70395,1927
+Flying High (Part 1),Cloud One,0.70477,1928
+Hey DJ,Worlds Famous Supreme Team,0.7074,1929
+You Make Me Wanna...,Usher,0.710013,1930
+5thep,Todd Osborn,0.71036,1931
+Deeper Than Love,Colleen Green,0.710528,1932
+36 Chamber Flow,Flatbush Zombies,0.71104,1933
+Get It On Tonite,Montell Jordan,0.711111,1934
+Blurred Lines,Robin Thicke,0.71115,1935
+La Bicicleta,Carlos Vives,0.711684,1936
+Quit Playing Games (With My Heart),Backstreet Boys,0.712614,1937
+Beat It - Single Version,Michael Jackson,0.715122,1938
+More Bounce To The Ounce,Zapp,0.71825,1939
+(You Drive Me) Crazy,Britney Spears,0.719576,1940
+Fuego,Juanes,0.719796,1941
+Dangerous (feat. Joywave),Big Data,0.720664,1942
+Synchronize,Discodeine,0.721428,1943
+Black or White - Single Version,Michael Jackson,0.722374,1944
+Jealousy,Martin Solveig,0.726349,1945
+That's What I Like,Bruno Mars,0.727609,1946
+"When They Fight, They Fight",Generationals,0.728151,1947
+Don't You Evah,Spoon,0.729012,1948
+Swing,Savage,0.729178,1949
+Spill The Wine,Eric Burdon,0.73211,1950
+Atomic Bomb,William Onyeabor,0.7334,1951
+Pop - Radio Version,*NSYNC,0.735875,1952
+Achy Breaky Heart,Billy Ray Cyrus,0.738424,1953
+Lucky,Britney Spears,0.738788,1954
+Running Back To You,The Juan Maclean,0.744775,1955
+Get Lucky - Daft Punk Remix,Daft Punk,0.74711,1956
+Back Pocket,Vulfpeck,0.750066,1957
+Hula Hoop,Daddy Yankee,0.751338,1958
+Love You Like A Love Song,Selena Gomez & The Scene,0.751625,1959
+Abataka - Original Mix,Ida Engberg,0.75392,1960
+Please Mr. Postman,The Marvelettes,0.75426,1961
+Next to You,Poolside,0.754385,1962
+You're Makin' Me High,Toni Braxton,0.755724,1963
+Walking Into Sunshine,Central Line,0.758912,1964
+I Wish,Stevie Wonder,0.759094,1965
+Nothing,HNNY,0.75919,1966
+Pass The Dutchie,Musical Youth,0.75936,1967
+Second Nature,Stalking Gia,0.760335,1968
+MWAH,Humming Urban Stereo,0.76167,1969
+Piss Test (feat. Juicy J & Dany Brown),A-Trak,0.762912,1970
+Slippin’,Quadron,0.763526,1971
+I'll Do a Little Bit More,The Olympics,0.763844,1972
+Shape of You,Ed Sheeran,0.769725,1973
+Dance Our Way,DJ Eleven,0.77172,1974
+Azon de ma gnin kpevi,T. P. Orchestre Poly-Rythmo,0.774508,1975
+Candy,Dillon Francis,0.775098,1976
+Sexy Socialite,Chromeo,0.776664,1977
+Black Boy,Pops Staples,0.77738,1978
+Got To Give It Up (Part 1),Marvin Gaye,0.77896,1979
+I Need You Tonight,Punkin Machine,0.779464,1980
+Shaky Shaky,Daddy Yankee,0.783029,1981
+Chantaje,Shakira,0.784267,1982
+Billie Jean,Michael Jackson,0.78752,1983
+Mi Swing es Tropical,Nickodemus,0.789888,1984
+I'll Be Missing You (feat. 112),Diddy,0.792178,1985
+Fuck Kd,StaRR Lyfe,0.792639,1986
+Oogum Boogum Song,Brenton Wood,0.794682,1987
+Let's Lovedance Tonight - Danny Krivit Re-edit - Dk Re-Edit,Gary's Gang,0.79704,1988
+Hoochie Mama,2 LIVE CREW,0.799235,1989
+Purp Walk,Lunice,0.805315,1990
+Jenny from the Block - Track Masters Remix,Jennifer Lopez,0.80613,1991
+Bustin' Loose,Chuck Brown and the Soul Searchers,0.812235,1992
+Inspector Norse,Todd Terje,0.812592,1993
+Sigo Extrañándote,J Balvin,0.814324,1994
+Peas Pudding Hot,The Kids Band,0.816432,1995
+Latino & Proud,DJ Raff,0.81855,1996
+Boys,Sabrina,0.81855,1997
+There's Nothing Holdin' Me Back,Shawn Mendes,0.827005,1998
+Hollaback Girl,Gwen Stefani,0.836178,1999
+Sippin On Some Syrup,Three 6 Mafia,0.841104,2000
+My Favorite Snack,Imagination Movers,0.84283,2001
+Jelly On A Plate,The Kids Band,0.848556,2002
+It Looks Like Love,Goody Goody,0.851212,2003
+P.Y.T. (Pretty Young Thing),Michael Jackson,0.85248,2004
+Natty Dread A Weh She Want,Horace Andy,0.860095,2005
+Who Is He (And What Is He to You?),Bill Withers,0.865488,2006
+Macarena,Los Del Rio,0.895482,2007
+SexyBack,Justin Timberlake,0.933155,2008

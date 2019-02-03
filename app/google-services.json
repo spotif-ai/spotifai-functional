@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "38521654950-a2p6m5kh5l4ab19pobjtrck9knp5g5vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotif_ai",
+            "certificate_hash": "aba57643983a9f0f6666002b9104fabd459c3fb1"
+          }
+        },
+        {
           "client_id": "38521654950-6mf79v87piq8bjiags779b4l47pfb81c.apps.googleusercontent.com",
           "client_type": 3
         }

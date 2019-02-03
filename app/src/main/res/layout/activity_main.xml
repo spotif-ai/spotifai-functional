@@ -16,7 +16,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:fontFamily="serif-monospace"
+        android:fontFamily="@font/raleway"
         android:gravity="center_horizontal"
         android:text="spotif.ai"
         android:textColor="@android:color/white"

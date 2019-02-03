@@ -62,6 +62,7 @@ public class SettingActivity extends AppCompatActivity {
             intent.putExtras(extras);
 //            intent.putExtra("direction",direction);
             startActivity(intent);
+//            overridePendingTransition(R.anim.slide_up, R.anim.fade_out);
             finish();
 
         }

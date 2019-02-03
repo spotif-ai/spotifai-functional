@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         settingsButton.startAnimation(fadeOut);
 //        fadeIn.setDuration(1000);
 //        fadeIn.setFillAfter(true);
-        fadeOut.setDuration(2500);
+        fadeOut.setDuration(1500);
         fadeOut.setFillAfter(true);
 //        fadeOut.setStartOffset(4200+fadeIn.getStartOffset());
 
@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,SettingActivity.class);
                 startActivity(intent);
+                overridePendingTransition(R.anim.slide_up, R.anim.fade_out);
                 finish();
 
             }

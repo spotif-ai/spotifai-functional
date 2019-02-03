@@ -143,6 +143,8 @@ public class testPhotoActivity extends AppCompatActivity {
                 Intent openURL = new Intent(android.content.Intent.ACTION_VIEW);
                 openURL.setData(Uri.parse("https://www.youtube.com/results?search_query=" + smilingProb.getText()));
                 startActivity(openURL);
+                overridePendingTransition(R.anim.slide_up, R.anim.fade_out);
+                finish();
             }
         });
 

@@ -8,44 +8,46 @@
     tools:context=".SettingActivity">
 
     <Button
-        android:id="@+id/motivateButton"
+        android:id="@+id/changebutton"
         android:layout_width="250dp"
         android:layout_height="75dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="140dp"
-        android:background="@drawable/roundbutton"
-        android:fontFamily="sans-serif-condensed"
+        android:background="@drawable/change_button_background"
+        android:fontFamily="@font/raleway"
         android:padding="0dp"
         android:text="CHANGE"
         android:textColor="@android:color/black"
         android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.803" />
+        app:layout_constraintTop_toBottomOf="@+id/middleText"
+        app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/stabilizeButton"
+        android:id="@+id/boostbutton"
         android:layout_width="250dp"
         android:layout_height="75dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@drawable/roundbutton"
-        android:fontFamily="sans-serif-condensed"
+        android:background="@drawable/boost_button_background"
+        android:fontFamily="@font/raleway"
         android:padding="0dp"
-        android:text="REINFORCE"
+        android:text="BOOST"
         android:textColor="@android:color/black"
         android:textSize="35sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/middleText"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.334" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <TextView
         android:id="@+id/topText"
@@ -55,14 +57,16 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:fontFamily="sans-serif-condensed"
+        android:fontFamily="@font/raleway"
         android:text="Do you want to:"
         android:textColor="@android:color/white"
-        android:textSize="40dp"
-        app:layout_constraintBottom_toTopOf="@+id/stabilizeButton"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toTopOf="@+id/boostbutton"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.968" />
 
     <TextView
         android:id="@+id/middleText"
@@ -72,14 +76,16 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:fontFamily="@font/raleway"
         android:text="or"
-        app:layout_constraintBottom_toTopOf="@+id/motivateButton"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/stabilizeButton"
-        android:textSize="40dp"
         android:textColor="@android:color/white"
-        android:fontFamily="sans-serif-condensed"/>
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.488" />
 
     <TextView
         android:id="@+id/bottomText"
@@ -89,14 +95,16 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:fontFamily="@font/raleway"
         android:text="your mood?"
+        android:textColor="@android:color/white"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/motivateButton"
-        android:textSize="40dp"
-        android:textColor="@android:color/white"
-        android:fontFamily="sans-serif-condensed"/>
+        app:layout_constraintTop_toBottomOf="@+id/changebutton"
+        app:layout_constraintVertical_bias="0.051" />
 
 
 </android.support.constraint.ConstraintLayout>

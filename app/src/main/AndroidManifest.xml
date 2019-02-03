@@ -18,10 +18,7 @@
         <meta-data
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
             android:value="face" />
-        <activity
-            android:name=".testPhotoActivity"
-            android:label="@string/title_activity_test_photo"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+
         <activity
             android:name=".SettingActivity"
             android:label="@string/title_activity_setting"

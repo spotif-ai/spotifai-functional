@@ -4,4 +4,9 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="splashGradient">#33FF2F</color>
+
+    <color name="change_button_pressed">#FF0000</color>
+    <color name="boost_button_pressed">#0000FF</color>
+    <color name="button_focused">#ff8a00</color>
+    <color name="button_default">#B8B8B8</color>
 </resources>
